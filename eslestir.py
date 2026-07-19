@@ -1,0 +1,194 @@
+"""
+UCUZCUM — ELLE URUN ESLESTIRME ARACI
+
+Ne yapar:
+  Firebase'deki Migros disi urunleri tek tek onune getirir,
+  her biri icin Migros'tan en olasi 5 adayi fiyatiyla listeler.
+  Sen sadece numara tuslarsin. Sonunda 'eslesmeler.json' dosyasi olusur.
+
+Neden degerli:
+  Urun kimlikleri kalicidir. Bir kez esletirdigin urun,
+  gelecek kampanyalarda da otomatik eslesir. Tek seferlik emek.
+
+KULLANIM (Colab):
+  1) Bu dosyayi GitHub'daki 'ucuzcum-web' deposuna yukle
+  2) Colab'da yeni bir hucreye:
+       !curl -sL https://raw.githubusercontent.com/mrbrdkc28-bit/ucuzcum-web/main/eslestir.py -o e.py
+  3) Baska bir hucreye:
+       exec(open('e.py').read())
+
+TUSLAR:
+  1-5  -> o adayi esletir
+  0    -> hicbiri uymuyor, gec
+  y    -> kendi arama kelimeni yaz
+  b    -> bitir ve kaydet
+"""
+
+import json
+import re
+import time
+import urllib.parse
+import urllib.request
+
+FIREBASE = "https://ucuzum-4e82f-default-rtdb.firebaseio.com"
+BASLIK = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                  "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
+    "Accept": "application/json",
+}
+CIKTI = "eslesmeler.json"
+
+
+# ---------------- yardimcilar ----------------
+
+def istek(adres):
+    r = urllib.request.Request(adres, headers=BASLIK)
+    with urllib.request.urlopen(r, timeout=25) as c:
+        return json.loads(c.read().decode("utf-8"))
+
+
+def tr(metin):
+    metin = metin.lower()
+    for a, b in {"ı": "i", "ş": "s", "ğ": "g", "ü": "u", "ö": "o", "ç": "c",
+                 "é": "e", "è": "e", "â": "a", "î": "i", "û": "u"}.items():
+        metin = metin.replace(a, b)
+    return re.sub(r"[^a-z0-9 ]", " ", metin)
+
+
+def anahtar_kelimeler(ad, adet=4):
+    return [w for w in tr(ad).split() if len(w) >= 3 and not w.isdigit()][:adet]
+
+
+def migros_ara(sorgu):
+    adres = ("https://www.migros.com.tr/rest/products/search?q="
+             + urllib.parse.quote(sorgu))
+    try:
+        veri = istek(adres)
+        return veri.get("data", {}).get("storeProductInfos", [])[:5]
+    except Exception:
+        return []
+
+
+def tl(kurus):
+    try:
+        return round(float(kurus) / 100, 2)
+    except Exception:
+        return 0.0
+
+
+def tablo_yukle():
+    try:
+        with open(CIKTI, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+
+def tablo_kaydet(tablo):
+    with open(CIKTI, "w", encoding="utf-8") as f:
+        json.dump(tablo, f, ensure_ascii=False, indent=1)
+
+
+# ---------------- ana akis ----------------
+
+def calis():
+    print("Firebase'den urunler cekiliyor...\n")
+    urunler = istek(f"{FIREBASE}/urunler.json") or {}
+
+    adaylar = []
+    for urun_id, veri in urunler.items():
+        if not isinstance(veri, dict):
+            continue
+        if veri.get("market") == "Migros":
+            continue
+        adaylar.append((urun_id, veri))
+
+    # marketlere gore duzenli sira
+    adaylar.sort(key=lambda x: (x[1].get("market", ""), x[1].get("urun_adi", "")))
+
+    tablo = tablo_yukle()
+    if tablo:
+        print(f"Onceki oturumdan {len(tablo)} eslesme yuklendi, "
+              f"onlar atlanacak.\n")
+
+    kalan = [(i, v) for i, v in adaylar if i not in tablo]
+    print(f"Toplam Migros disi urun : {len(adaylar)}")
+    print(f"Eslestirilecek kalan    : {len(kalan)}")
+    print("\nTuslar:  1-5 sec  |  0 gec  |  y kendi aramam  |  b bitir\n")
+    print("=" * 64)
+
+    yeni = 0
+    for sira, (urun_id, veri) in enumerate(kalan, 1):
+        ad = veri.get("urun_adi", "")
+        market = veri.get("market", "?")
+        fiyat = veri.get("gecerli_fiyat", 0)
+
+        sorgu = " ".join(anahtar_kelimeler(ad))
+        while True:
+            print(f"\n[{sira}/{len(kalan)}]  {market}")
+            print(f"   {ad}")
+            print(f"   indirimli fiyat: {fiyat} TL")
+            print(f"   (arama: {sorgu})")
+
+            sonuclar = migros_ara(sorgu)
+            if not sonuclar:
+                print("   -> Migros'ta sonuc yok")
+            for n, s in enumerate(sonuclar, 1):
+                normal = tl(s.get("regularPrice") or 0)
+                guncel = tl(s.get("shownPrice") or 0)
+                notu = f"  (indirimli: {guncel})" if guncel and guncel != normal else ""
+                print(f"   {n}) {s.get('name','')[:56]}")
+                print(f"      normal: {normal} TL{notu}")
+
+            secim = input("   secim > ").strip().lower()
+
+            if secim == "b":
+                tablo_kaydet(tablo)
+                print(f"\nBitirildi. Toplam {len(tablo)} eslesme kaydedildi.")
+                indir()
+                return
+
+            if secim == "y":
+                sorgu = input("   yeni arama kelimesi > ").strip()
+                if not sorgu:
+                    sorgu = " ".join(anahtar_kelimeler(ad))
+                continue
+
+            if secim == "0" or secim == "":
+                break
+
+            if secim.isdigit() and 1 <= int(secim) <= len(sonuclar):
+                s = sonuclar[int(secim) - 1]
+                sku = s.get("sku") or s.get("id")
+                tablo[urun_id] = {
+                    "sku": str(sku),
+                    "ad": s.get("name", ""),
+                    "kaynak_ad": ad,
+                }
+                yeni += 1
+                print(f"   ✓ eslestirildi -> {s.get('name','')[:50]}")
+                if yeni % 10 == 0:
+                    tablo_kaydet(tablo)
+                    print(f"   [ara kayit: {len(tablo)} eslesme]")
+                break
+
+            print("   ? gecersiz secim")
+
+        time.sleep(0.15)
+
+    tablo_kaydet(tablo)
+    print(f"\n{'='*64}\nTAMAMLANDI. Toplam {len(tablo)} eslesme.")
+    indir()
+
+
+def indir():
+    """Colab'da dosyayi bilgisayara indirir."""
+    try:
+        from google.colab import files
+        files.download(CIKTI)
+        print(f"\n{CIKTI} indiriliyor... Bu dosyayi 'ucuzcum-bot' deposuna yukle.")
+    except Exception:
+        print(f"\n{CIKTI} olusturuldu. Colab sol paneldeki klasorden indirebilirsin.")
+
+
+calis()
