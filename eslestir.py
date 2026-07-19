@@ -172,8 +172,11 @@ def calis():
 
     tablo = tablo_yukle()
     if tablo:
-        print(f"Onceki oturumdan {len(tablo)} eslesme yuklendi, "
-              f"onlar atlanacak.\n")
+        eslesen = len([v for v in tablo.values()
+                       if isinstance(v, dict) and v.get("sku")])
+        atlanan = len(tablo) - eslesen
+        print(f"Onceki oturum: {eslesen} eslesme, {atlanan} atlanan "
+              f"(ikisi de tekrar sorulmaz)\n")
 
     kalan = [(i, v) for i, v in adaylar if i not in tablo]
     print(f"Toplam Migros disi urun : {len(adaylar)}")
@@ -208,7 +211,10 @@ def calis():
 
             if secim == "b":
                 tablo_kaydet(tablo)
-                print(f"\nBitirildi. Toplam {len(tablo)} eslesme kaydedildi.")
+                eslesen = len([v for v in tablo.values()
+                               if isinstance(v, dict) and v.get("sku")])
+                print(f"\nBitirildi. {eslesen} eslesme, "
+                      f"{len(tablo) - eslesen} atlanan kaydedildi.")
                 indir()
                 return
 
@@ -219,6 +225,9 @@ def calis():
                 continue
 
             if secim == "0" or secim == "":
+                tablo[urun_id] = {"atla": True, "kaynak_ad": ad}
+                tablo_kaydet(tablo)
+                print("   – atlandi (bir daha sorulmayacak)")
                 break
 
             if secim.isdigit() and 1 <= int(secim) <= len(sonuclar):
@@ -278,7 +287,10 @@ def calis():
         time.sleep(0.15)
 
     tablo_kaydet(tablo)
-    print(f"\n{'='*64}\nTAMAMLANDI. Toplam {len(tablo)} eslesme.")
+    eslesen = len([v for v in tablo.values()
+                   if isinstance(v, dict) and v.get("sku")])
+    print(f"\n{'='*64}\nTAMAMLANDI. {eslesen} eslesme, "
+          f"{len(tablo) - eslesen} atlanan.")
     indir()
 
 
