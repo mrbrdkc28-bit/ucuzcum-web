@@ -63,8 +63,63 @@ def tr(metin):
     return re.sub(r"[^a-z0-9 ]", " ", metin)
 
 
+def miktar_metni(metin):
+    """Miktar okuma icin: virgul, nokta ve carpim isaretini KORUR."""
+    metin = metin.lower()
+    for a, b in {"ı": "i", "ş": "s", "ğ": "g", "ü": "u", "ö": "o",
+                 "ç": "c"}.items():
+        metin = metin.replace(a, b)
+    return re.sub(r"[^a-z0-9,.x* ]", " ", metin)
+
+
 def anahtar_kelimeler(ad, adet=4):
     return [w for w in tr(ad).split() if len(w) >= 3 and not w.isdigit()][:adet]
+
+
+def toplam_miktar(ad):
+    """
+    Urun adindan TOPLAM miktari cikarir. Coklu paketleri carpar.
+    '3x180 G' -> 540 g   |   '24x12,5 G' -> 300 g   |   '180 G' -> 180 g
+    """
+    metin = miktar_metni(ad)
+    # once NxM kaliplari (3x180 g, 24 x 12,5 g)
+    coklu = re.search(
+        r"(\d+)\s*[x*]\s*(\d+[.,]?\d*)\s*(kg|gr|g|ml|lt|l|cl)\b", metin)
+    if coklu:
+        adet = int(coklu.group(1))
+        birim_deger = float(coklu.group(2).replace(",", "."))
+        birim = coklu.group(3)
+        return _cevir(adet * birim_deger, birim)
+    tek = re.findall(r"(\d+[.,]?\d*)\s*(kg|gr|g|ml|lt|l|cl)\b", metin)
+    if tek:
+        deger, birim = tek[-1]
+        return _cevir(float(deger.replace(",", ".")), birim)
+    return None
+
+
+def _cevir(deger, birim):
+    if birim == "kg":
+        deger, birim = deger * 1000, "g"
+    elif birim == "gr":
+        birim = "g"
+    elif birim in ("lt", "l"):
+        deger, birim = deger * 1000, "ml"
+    elif birim == "cl":
+        deger, birim = deger * 10, "ml"
+    return (round(deger, 2), birim)
+
+
+def carpan_hesapla(kaynak_ad, migros_ad):
+    """Iki urunun miktar orani. Ayni birimde degilse veya okunamazsa None."""
+    a = toplam_miktar(kaynak_ad)
+    b = toplam_miktar(migros_ad)
+    if not a or not b or a[1] != b[1] or b[0] <= 0:
+        return None
+    oran = a[0] / b[0]
+    # tam sayiya cok yakinsa yuvarla (3.0001 -> 3)
+    if abs(oran - round(oran)) < 0.02:
+        oran = float(round(oran))
+    return round(oran, 3), a, b
 
 
 def migros_ara(sorgu):
@@ -169,10 +224,46 @@ def calis():
             if secim.isdigit() and 1 <= int(secim) <= len(sonuclar):
                 s = sonuclar[int(secim) - 1]
                 sku = s.get("sku") or s.get("id")
+                migros_ad = s.get("name", "")
+                migros_normal = tl(s.get("regularPrice") or 0)
+
+                # --- miktar farki varsa carpan ---
+                carpan = 1.0
+                hesap = carpan_hesapla(ad, migros_ad)
+                if hesap:
+                    oran, a, b = hesap
+                    if abs(oran - 1.0) > 0.02:
+                        esdeger = round(migros_normal * oran, 2)
+                        print(f"\n   ! MIKTAR FARKI")
+                        print(f"     bu urun    : {a[0]:g} {a[1]}")
+                        print(f"     migros     : {b[0]:g} {b[1]}  ({migros_normal} TL)")
+                        print(f"     carpan     : {oran:g}  ->  "
+                              f"migros esdeger: {esdeger} TL")
+                        onay = input("     carpan dogru mu? [Enter=evet, "
+                                     "sayi=elle gir, 0=eslestirme] > ").strip()
+                        if onay == "0":
+                            print("   - eslesme iptal")
+                            break
+                        if onay:
+                            try:
+                                oran = float(onay.replace(",", "."))
+                            except ValueError:
+                                pass
+                        carpan = oran
+                else:
+                    elle = input("   miktar okunamadi. carpan "
+                                 "[Enter=1] > ").strip()
+                    if elle:
+                        try:
+                            carpan = float(elle.replace(",", "."))
+                        except ValueError:
+                            carpan = 1.0
+
                 tablo[urun_id] = {
                     "sku": str(sku),
-                    "ad": s.get("name", ""),
+                    "ad": migros_ad,
                     "kaynak_ad": ad,
+                    "carpan": carpan,
                 }
                 yeni += 1
                 tablo_kaydet(tablo)          # her secimde kaydet
