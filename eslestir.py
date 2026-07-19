@@ -41,10 +41,18 @@ CIKTI = "eslesmeler.json"
 
 # ---------------- yardimcilar ----------------
 
-def istek(adres):
-    r = urllib.request.Request(adres, headers=BASLIK)
-    with urllib.request.urlopen(r, timeout=25) as c:
-        return json.loads(c.read().decode("utf-8"))
+def istek(adres, deneme=2, sure=12):
+    """Kisa zaman asimi + yeniden deneme (takilmayi onler)."""
+    son_hata = None
+    for _ in range(deneme):
+        try:
+            r = urllib.request.Request(adres, headers=BASLIK)
+            with urllib.request.urlopen(r, timeout=sure) as c:
+                return json.loads(c.read().decode("utf-8"))
+        except Exception as e:
+            son_hata = e
+            time.sleep(1)
+    raise son_hata
 
 
 def tr(metin):
@@ -65,7 +73,8 @@ def migros_ara(sorgu):
     try:
         veri = istek(adres)
         return veri.get("data", {}).get("storeProductInfos", [])[:5]
-    except Exception:
+    except Exception as e:
+        print(f"   [arama hatasi: {type(e).__name__} — 'y' ile tekrar dene]")
         return []
 
 
@@ -166,10 +175,11 @@ def calis():
                     "kaynak_ad": ad,
                 }
                 yeni += 1
-                print(f"   ✓ eslestirildi -> {s.get('name','')[:50]}")
-                if yeni % 10 == 0:
-                    tablo_kaydet(tablo)
-                    print(f"   [ara kayit: {len(tablo)} eslesme]")
+                tablo_kaydet(tablo)          # her secimde kaydet
+                print(f"   ✓ eslestirildi -> {s.get('name','')[:50]}"
+                      f"   [toplam {len(tablo)}]")
+                if len(tablo) % 25 == 0:
+                    print("   ——— 25'in katı: 'b' ile indirip yedeklemen önerilir ———")
                 break
 
             print("   ? gecersiz secim")
