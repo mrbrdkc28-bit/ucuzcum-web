@@ -1,0 +1,4467 @@
+{
+ "a101_24003749": {
+  "migros": {
+   "kod": "34121100",
+   "ad": "Arko Men Klasik Tıraş Jeli 200 Ml",
+   "carpan": null
+  }
+ },
+ "a101_22002812": {
+  "migros": {
+   "kod": "30130018",
+   "ad": "Ariel Dağ Esintisi Beyazlar 7 Kg",
+   "carpan": 0.571
+  },
+  "ozdilek": {
+   "kod": "11574049",
+   "ad": "Ariel Çamaşır Deterjanı 4 kg Dağ Esintisi Beyazlar"
+  }
+ },
+ "a101_22001812": {
+  "migros": {
+   "kod": "30131968",
+   "ad": "Ariel Dağ Esintisi Renklilere Özel Toz Çamaşır Deterjanı 7 Kg 46 Yıkama",
+   "carpan": 0.571
+  },
+  "ozdilek": {
+   "kod": "11574049",
+   "ad": "Ariel Çamaşır Deterjanı 4 kg Dağ Esintisi Beyazlar"
+  }
+ },
+ "a101_12002714": {
+  "migros": {
+   "kod": "10301572",
+   "ad": "Bahçıvan Labne Peyniri 180 G",
+   "carpan": 3.0
+  }
+ },
+ "a101_12000325": {
+  "migros": {
+   "kod": "10013111",
+   "ad": "Bahçıvan Süzme Peynir 500 G",
+   "carpan": 1.0
+  },
+  "macro": {
+   "kod": "10013111",
+   "ad": "Bahçıvan Süzme Peynir 500 G"
+  }
+ },
+ "a101_11002032": {
+  "migros": {
+   "kod": "14109291",
+   "ad": "Banvit Baton Piliç Salam 850 Gr",
+   "carpan": 1.0
+  }
+ },
+ "a101_14002032": {
+  "migros": {
+   "kod": "03310008",
+   "ad": "Bor Şeker Toz Şeker 1 Kg",
+   "carpan": 1.0
+  }
+ },
+ "a101_11001053": {
+  "migros_yok": true
+ },
+ "a101_30000261": {
+  "ozdilek": {
+   "kod": "10120519",
+   "ad": "Lipton Karadeniz Çay 100'lü Demlik Poşet"
+  },
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "a101_11002031": {
+  "migros": {
+   "kod": "14109270",
+   "ad": "Banvit Piliç Kokteyl Sosis 1000 G",
+   "carpan": 0.5
+  }
+ },
+ "a101_11002029": {
+  "migros": {
+   "kod": "46040053",
+   "ad": "Banvit Piliç Nugget 700 G",
+   "carpan": 0.429
+  }
+ },
+ "a101_17001813": {
+  "migros": {
+   "kod": "07013767",
+   "ad": "Eti Balık Kraker 160 G",
+   "carpan": 1.0
+  },
+  "macro": {
+   "kod": "07013767",
+   "ad": "Eti Balık Kraker 160 G"
+  }
+ },
+ "a101_17002615": {
+  "migros": {
+   "kod": "05106565",
+   "ad": "Eti Browni Intense Gold Beyaz Çikolata Krema Dolgulu Kek 48 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "12482096",
+   "ad": "Eti Browni İntense Gold 48 G"
+  },
+  "macro": {
+   "kod": "05106565",
+   "ad": "Eti Brownı Intense Gold Byz.çik.krema Dolg.kek 48G"
+  }
+ },
+ "a101_17000752": {
+  "migros": {
+   "kod": "05098209",
+   "ad": "Eti Browni Intense Çikolatalı Kek 50 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "10126511",
+   "ad": "Eti Browni Intense Çikolatalı Kek 50G"
+  }
+ },
+ "a101_17002436": {
+  "migros": {
+   "kod": "07019191",
+   "ad": "Eti Burçak Bitter Çikolatalı Yulaflı Bisküvi 114 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "12057432",
+   "ad": "Eti Burçak Bitter Çikolatalı BIisküvi 114 G"
+  },
+  "macro": {
+   "kod": "07019191",
+   "ad": "Eti Burçak Bitter Çikolatalı Bisküvi 114 G"
+  }
+ },
+ "a101_17001723": {
+  "migros": {
+   "kod": "07019931",
+   "ad": "Eti Burçak Sütlü Çikolatalı Bisküvi 114 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "12057432",
+   "ad": "Eti Burçak Bitter Çikolatalı BIisküvi 114 G"
+  },
+  "macro": {
+   "kod": "07019931",
+   "ad": "Eti Burçak Sütlü Çikolatalı Bisküvi 114 G"
+  }
+ },
+ "a101_17000024": {
+  "migros": {
+   "kod": "07010022",
+   "ad": "Eti Cicibebe Bisküvi 1 Kg",
+   "carpan": 1.0
+  }
+ },
+ "a101_17003309": {
+  "migros": {
+   "kod": "05099134",
+   "ad": "Eti Gong Ballı Hardallı Mısır ve Pirinç Patlağı 68 G",
+   "carpan": 0.5
+  }
+ },
+ "a101_17001826": {
+  "migros": {
+   "kod": "07012145",
+   "ad": "Eti Gong Mısır ve Pirinç Patlağı 64 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "10126346",
+   "ad": "Eti Gong Mısır Pirinç Patlağı 64 G"
+  }
+ },
+ "a101_16000811": {
+  "migros": {
+   "kod": "05093202",
+   "ad": "Eti Lifalif Yulaf Ezmesi 500 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "10126326",
+   "ad": "Eti lifalif Yulaf Ezmesi 500 G"
+  },
+  "macro": {
+   "kod": "05093202",
+   "ad": "Eti Lifalif Yulaf Ezmesi 500 G"
+  }
+ },
+ "a101_16001593": {
+  "migros": {
+   "kod": "05099191",
+   "ad": "Eti Lifalif İnce Öğütülmüş Yulaf Ezmesi 350 G",
+   "carpan": 1.0
+  },
+  "macro": {
+   "kod": "05099191",
+   "ad": "Eti Lifalif İnce Öğütülmüş Yulaf Ezmesi 350 G"
+  }
+ },
+ "a101_17002342": {
+  "migros": {
+   "kod": "07017073",
+   "ad": "Eti Mini Mısırlı Balık Kraker 70 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "11860317",
+   "ad": "Eti Balık Kraker Mini Mısırlı 70 G"
+  },
+  "macro": {
+   "kod": "07017073",
+   "ad": "Eti Balık Mini Mısırlı Kraker 70 G"
+  }
+ },
+ "a101_17001670": {
+  "migros": {
+   "kod": "07010621",
+   "ad": "Eti Pizza Kraker 76 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "10126237",
+   "ad": "Eti Pizza Kraker 76 G"
+  },
+  "macro": {
+   "kod": "07010621",
+   "ad": "Eti Pizza Kraker 76 G"
+  }
+ },
+ "a101_17002101": {
+  "migros": {
+   "kod": "05096420",
+   "ad": "Eti Popkek Çikolatalı Kek 60 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "10126503",
+   "ad": "Eti Popkek Çikolatalı 60G"
+  }
+ },
+ "a101_21001373": {
+  "migros": {
+   "kod": "17010028",
+   "ad": "Feast Dondurulmuş Crinky Patates 1 Kg",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "13472138",
+   "ad": "Feast Gurme Crınky Patates 1 Kg"
+  },
+  "macro": {
+   "kod": "17010028",
+   "ad": "Feast Dondurulmuş Crinky Patates 1 Kg"
+  }
+ },
+ "a101_27002632": {
+  "migros": {
+   "kod": "07190013",
+   "ad": "Fellas Dört Tohumlu Kuruyemiş Bar 30 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "13922979",
+   "ad": "Fellas Dört Tohumlu Kuruyemiş Bar 30 G"
+  }
+ },
+ "a101_27002609": {
+  "migros": {
+   "kod": "07190009",
+   "ad": "Fellas Fındıklı Kakaolu Kuruyemiş Bar 30 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "13922981",
+   "ad": "Fellas Fındıklı Kakaolu Kuruyemiş Bar 30 G"
+  },
+  "macro": {
+   "kod": "07190009",
+   "ad": "Fellas Fındıklı Kakaolu Kuruyemiş Bar 30 G"
+  }
+ },
+ "a101_14000477": {
+  "migros": {
+   "kod": "05030351",
+   "ad": "Filiz Boncuk Makarna 500 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "10123303",
+   "ad": "Filiz Boncuk Makarna 500 g"
+  }
+ },
+ "a101_14002534": {
+  "migros": {
+   "kod": "05030360",
+   "ad": "Filiz Kalem Makarna 500 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "10123110",
+   "ad": "Filiz Kalem Makarna 500 g"
+  }
+ },
+ "a101_14002536": {
+  "migros": {
+   "kod": "05030355",
+   "ad": "Filiz İnce Uzun Makarna 500 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "10123173",
+   "ad": "Filiz İnce Uzun Makarna 500 g"
+  }
+ },
+ "a101_11002654": {
+  "migros": {
+   "kod": "13500610",
+   "ad": "Gedik Piliç Nugget 700 G",
+   "carpan": 0.429
+  }
+ },
+ "a101_27000202": {
+  "migros": {
+   "kod": "07110276",
+   "ad": "Haribo Altın Ayıcık 80 G",
+   "carpan": 1.625
+  }
+ },
+ "a101_13001326": {
+  "migros": {
+   "kod": "08055169",
+   "ad": "Hayat Su 750 Ml",
+   "carpan": 2.0
+  },
+  "ozdilek": {
+   "kod": "10119791",
+   "ad": "Hayat Su 1.5 l"
+  }
+ },
+ "a101_13001082": {
+  "migros": {
+   "kod": "08055169",
+   "ad": "Hayat Su 750 Ml",
+   "carpan": 6.667
+  }
+ },
+ "a101_18003131": {
+  "migros": {
+   "kod": "16290040",
+   "ad": "Hellmann's İkili Set Ketçap 460 G + Mayonez 385 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "14172544",
+   "ad": "Hellmann's Ketçap 460 g + Mayonez 385 g"
+  }
+ },
+ "a101_14002042": {
+  "migros": {
+   "kod": "05038655",
+   "ad": "Indomie Gurme Acı ve Baharatlı Hazır Noodle 80 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "12329126",
+   "ad": "İndomie Gurme Acı ve Baharatlı Hazır Noodle 80 g"
+  },
+  "macro": {
+   "kod": "05038655",
+   "ad": "İndomie Gurme Acı Ve Baharatlı Hazır Noodle 80 G"
+  }
+ },
+ "a101_14002040": {
+  "migros": {
+   "kod": "05038653",
+   "ad": "Indomie Gurme Soya Soslu Hazır Noodle 80 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "12329128",
+   "ad": "İndomie Gurme Soya Soslu Hazır Noodle 80 g"
+  },
+  "macro": {
+   "kod": "05038653",
+   "ad": "Indomie Gurme Soya Soslu Hazır Noodle 80 G"
+  }
+ },
+ "a101_14002154": {
+  "migros": {
+   "kod": "03311032",
+   "ad": "Irmak Toz Şeker 1 Kg",
+   "carpan": 1.0
+  },
+  "macro": {
+   "kod": "03311032",
+   "ad": "Irmak Toz Şeker 1 Kg"
+  }
+ },
+ "a101_14000210": {
+  "migros": {
+   "kod": "03311033",
+   "ad": "Irmak Kristal Toz Şeker 3 Kg",
+   "carpan": 1.0
+  }
+ },
+ "a101_12000137": {
+  "migros_yok": true
+ },
+ "a101_11000311": {
+  "migros": {
+   "kod": "14109251",
+   "ad": "Keskinoğlu Piliç Salam 700 G",
+   "carpan": 1.214
+  }
+ },
+ "a101_19001013": {
+  "migros": {
+   "kod": "04110062",
+   "ad": "Komili Ayçiçek Yağı 5 L",
+   "carpan": 1.0
+  }
+ },
+ "a101_24005793": {
+  "atla": true
+ },
+ "a101_16001313": {
+  "migros": {
+   "kod": "16011378",
+   "ad": "Marmarabirlik Kuru Sele Zeytin 351- 380 Ad/kg 800 G",
+   "carpan": 1.0
+  }
+ },
+ "a101_24005746": {
+  "migros": {
+   "kod": "34450054",
+   "ad": "Maybelline New York Falsies Surreal Maskara",
+   "carpan": 1.0
+  }
+ },
+ "a101_17003474": {
+  "migros": {
+   "kod": "07019962",
+   "ad": "Saklıköy Sütlü Kremalı Bisküvi 3 x 88 G",
+   "carpan": 1.515
+  }
+ },
+ "a101_14001446": {
+  "migros": {
+   "kod": "46023234",
+   "ad": "Nar Toz Şeker 1 Kg",
+   "carpan": 1.0
+  }
+ },
+ "a101_14000268": {
+  "migros": {
+   "kod": "46023235",
+   "ad": "Nar Toz Şeker 5 Kg",
+   "carpan": 0.6
+  }
+ },
+ "a101_14001543": {
+  "migros": {
+   "kod": "05030207",
+   "ad": "Nuh'un Ankara Arpa Şehriye 500 G",
+   "carpan": 1.0
+  }
+ },
+ "a101_14001541": {
+  "migros": {
+   "kod": "05030211",
+   "ad": "Nuh'un Ankara Burgu Makarna 500 G",
+   "carpan": 1.0
+  }
+ },
+ "a101_14000370": {
+  "migros": {
+   "kod": "05030210",
+   "ad": "Nuh'un Ankara Fiyonk 500 G",
+   "carpan": 1.0
+  }
+ },
+ "a101_14001540": {
+  "migros": {
+   "kod": "05030208",
+   "ad": "Nuh'Un Ankara Spagetti Makarna 500 G",
+   "carpan": 1.0
+  }
+ },
+ "a101_14001542": {
+  "migros": {
+   "kod": "05030212",
+   "ad": "Nuh'un Ankara Yüksük Kesme Makarna 500 G",
+   "carpan": 1.0
+  }
+ },
+ "a101_27002620": {
+  "migros": {
+   "kod": "07150044",
+   "ad": "Nutmaster Kakaolu Fındık Kreması & Grisini 52G",
+   "carpan": 1.0
+  }
+ },
+ "a101_22002770": {
+  "migros": {
+   "kod": "30560201",
+   "ad": "Omo Leke Çıkarıcı Renkliler 1 L",
+   "carpan": 1.0
+  }
+ },
+ "a101_21001521": {
+  "migros": {
+   "kod": "17550006",
+   "ad": "Pek Food Klasik Lahmacun 400 G",
+   "carpan": 1.0
+  }
+ },
+ "a101_13001083": {
+  "atla": true
+ },
+ "a101_13002648": {
+  "atla": true
+ },
+ "a101_13001289": {
+  "atla": true
+ },
+ "a101_21001413": {
+  "atla": true
+ },
+ "a101_16002388": {
+  "atla": true
+ },
+ "a101_14002038": {
+  "atla": true
+ },
+ "a101_14001132": {
+  "atla": true
+ },
+ "a101_11001499": {
+  "atla": true
+ },
+ "a101_11002970": {
+  "atla": true
+ },
+ "a101_21001594": {
+  "atla": true
+ },
+ "a101_12000114": {
+  "atla": true
+ },
+ "a101_12001779": {
+  "atla": true
+ },
+ "a101_12001780": {
+  "atla": true
+ },
+ "a101_12000113": {
+  "atla": true
+ },
+ "a101_21001481": {
+  "atla": true
+ },
+ "a101_27001253": {
+  "atla": true
+ },
+ "a101_27002543": {
+  "atla": true
+ },
+ "a101_11002690": {
+  "atla": true
+ },
+ "a101_11000066": {
+  "atla": true
+ },
+ "a101_13000701": {
+  "atla": true
+ },
+ "a101_14001723": {
+  "atla": true
+ },
+ "a101_16002397": {
+  "atla": true
+ },
+ "a101_27001946": {
+  "atla": true
+ },
+ "a101_27002580": {
+  "atla": true
+ },
+ "a101_17002144": {
+  "atla": true
+ },
+ "a101_17002099": {
+  "atla": true
+ },
+ "a101_22001725": {
+  "atla": true
+ },
+ "a101_21001584": {
+  "atla": true
+ },
+ "a101_21001500": {
+  "atla": true
+ },
+ "a101_14000475": {
+  "atla": true
+ },
+ "a101_21001333": {
+  "atla": true
+ },
+ "a101_21001335": {
+  "atla": true
+ },
+ "a101_21001334": {
+  "atla": true
+ },
+ "a101_21001562": {
+  "atla": true
+ },
+ "a101_11001853": {
+  "atla": true
+ },
+ "a101_11001873": {
+  "atla": true
+ },
+ "a101_17001193": {
+  "atla": true
+ },
+ "a101_27002465": {
+  "atla": true
+ },
+ "a101_27000201": {
+  "atla": true
+ },
+ "a101_13000531": {
+  "atla": true
+ },
+ "a101_12003166": {
+  "atla": true
+ },
+ "a101_12000032": {
+  "atla": true
+ },
+ "a101_27002724": {
+  "atla": true
+ },
+ "a101_12001152": {
+  "atla": true
+ },
+ "a101_11000312": {
+  "atla": true
+ },
+ "a101_11002297": {
+  "atla": true
+ },
+ "a101_11003116": {
+  "atla": true
+ },
+ "a101_11001906": {
+  "atla": true
+ },
+ "a101_11003112": {
+  "atla": true
+ },
+ "a101_21001581": {
+  "atla": true
+ },
+ "a101_13000751": {
+  "atla": true
+ },
+ "a101_24001959": {
+  "atla": true
+ },
+ "a101_27000074": {
+  "atla": true
+ },
+ "a101_27002863": {
+  "atla": true
+ },
+ "a101_16000999": {
+  "atla": true
+ },
+ "a101_24006093": {
+  "atla": true
+ },
+ "a101_24006094": {
+  "atla": true
+ },
+ "a101_28000461": {
+  "atla": true
+ },
+ "a101_28000460": {
+  "atla": true
+ },
+ "a101_28000020": {
+  "atla": true
+ },
+ "a101_24006165": {
+  "atla": true
+ },
+ "a101_25000915": {
+  "atla": true
+ },
+ "a101_19001118": {
+  "atla": true
+ },
+ "a101_14001904": {
+  "atla": true
+ },
+ "a101_21001520": {
+  "atla": true
+ },
+ "a101_21001578": {
+  "atla": true
+ },
+ "a101_12002251": {
+  "migros": {
+   "kod": "11010089",
+   "ad": "Pınar Denge Laktozsuz Süt 1 L",
+   "carpan": 1.0
+  }
+ },
+ "a101_25000903": {
+  "migros": {
+   "kod": "31552020",
+   "ad": "Raid Böceksavar Max Aerosol 300 Ml",
+   "carpan": 1.0
+  }
+ },
+ "a101_25000911": {
+  "migros": {
+   "kod": "31555030",
+   "ad": "Raid Mat Cihaz + 10 Tablet",
+   "carpan": 1.0
+  }
+ },
+ "a101_25001552": {
+  "atla": true
+ },
+ "a101_25000989": {
+  "atla": true
+ },
+ "a101_25001151": {
+  "migros": {
+   "kod": "31550120",
+   "ad": "Raid Sineksavar 2in1 300 Ml",
+   "carpan": 1.0
+  }
+ },
+ "a101_25000608": {
+  "atla": true
+ },
+ "a101_19000003": {
+  "migros": {
+   "kod": "04201401",
+   "ad": "Sana Paket Margarin Klasik 250 G",
+   "carpan": 1.0
+  }
+ },
+ "a101_12000184": {
+  "migros": {
+   "kod": "11010256",
+   "ad": "Sek Laktozsuz Süt 1 L",
+   "carpan": 1.0
+  }
+ },
+ "a101_16002062": {
+  "atla": true
+ },
+ "a101_23001495": {
+  "atla": true
+ },
+ "a101_21001507": {
+  "migros": {
+   "kod": "17555941",
+   "ad": "SuperFresh Mantı 400 G",
+   "carpan": 1.0
+  }
+ },
+ "a101_21001426": {
+  "atla": true
+ },
+ "a101_21001410": {
+  "atla": true
+ },
+ "a101_21001590": {
+  "atla": true
+ },
+ "a101_21001591": {
+  "atla": true
+ },
+ "a101_21001318": {
+  "atla": true
+ },
+ "a101_21001363": {
+  "atla": true
+ },
+ "a101_12000556": {
+  "atla": true
+ },
+ "a101_12000527": {
+  "atla": true
+ },
+ "a101_13002925": {
+  "migros": {
+   "kod": "08040158",
+   "ad": "Sırma Karma Portakal Çiçeği ve Misket Limonu Aromalı 250 Ml",
+   "carpan": 1.0
+  }
+ },
+ "a101_12003721": {
+  "atla": true
+ },
+ "a101_16002158": {
+  "migros": {
+   "kod": "07156012",
+   "ad": "Abdurrahman Tatlıcı - Tadıbu  Kakaolu Fındık Ezmesi 330 G",
+   "carpan": 1.0
+  }
+ },
+ "a101_12001370": {
+  "atla": true
+ },
+ "a101_12003438": {
+  "atla": true
+ },
+ "a101_12002820": {
+  "atla": true
+ },
+ "a101_12002666": {
+  "atla": true
+ },
+ "a101_16001906": {
+  "atla": true
+ },
+ "a101_16000002": {
+  "migros": {
+   "kod": "07155834",
+   "ad": "Torku Banada Kakaolu Fındık Kreması 700 G",
+   "carpan": 1.286
+  }
+ },
+ "a101_11001498": {
+  "atla": true
+ },
+ "a101_16001249": {
+  "migros": {
+   "kod": "07155855",
+   "ad": "Torku Fındık Ezmesi 370 G",
+   "carpan": 1.0
+  }
+ },
+ "a101_12001418": {
+  "migros": {
+   "kod": "10019128",
+   "ad": "Torku Tam Yağlı Taze Beyaz Peynir 900 G",
+   "carpan": 1.111
+  }
+ },
+ "a101_12002488": {
+  "atla": true
+ },
+ "a101_27002582": {
+  "atla": true
+ },
+ "a101_22002407": {
+  "migros": {
+   "kod": "30539756",
+   "ad": "Tursil Leylak Bahçesi 33 Yıkama 2.145 L",
+   "carpan": 1.0
+  }
+ },
+ "a101_11002687": {
+  "migros": {
+   "kod": "14109291",
+   "ad": "Banvit Baton Piliç Salam 850 Gr"
+  }
+ },
+ "a101_14001858": {
+  "migros": {
+   "kod": "01010154",
+   "ad": "Yayla Tane Tane Pirinç 2 Kg",
+   "carpan": 1.0
+  }
+ },
+ "a101_14001918": {
+  "atla": true
+ },
+ "a101_14001908": {
+  "atla": true
+ },
+ "a101_14001924": {
+  "atla": true
+ },
+ "a101_14001919": {
+  "atla": true
+ },
+ "a101_14002025": {
+  "atla": true
+ },
+ "a101_16002478": {
+  "atla": true
+ },
+ "a101_16002326": {
+  "migros": {
+   "kod": "07150098",
+   "ad": "Züber Peanutzilla Kakaolu Fıstık Kreması 315 G",
+   "carpan": 1.0
+  }
+ },
+ "a101_18002404": {
+  "migros": {
+   "kod": "09010048",
+   "ad": "Öncü Biber Salçası Acı Cam 700 G",
+   "carpan": 1.286
+  }
+ },
+ "a101_18001379": {
+  "atla": true
+ },
+ "a101_18002405": {
+  "migros": {
+   "kod": "09010049",
+   "ad": "Öncü Biber Salçası Tatlı Cam 700 G",
+   "carpan": 1.286
+  }
+ },
+ "a101_12001476": {
+  "migros": {
+   "kod": "46054141",
+   "ad": "Ünal Trakya Klasik Beyaz Peynir 600 G"
+  }
+ },
+ "a101_21001523": {
+  "atla": true
+ },
+ "a101_12002289": {
+  "atla": true
+ },
+ "a101_12000233": {
+  "atla": true
+ },
+ "bim_aktuelurunlerkrempeynir36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlertamyaglisuzmepeynir36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlertamyaglitazekasarpeyniri36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlertamyaglitostpeyniri36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlertavapeyniri36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlerkefir36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlerkakao36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlerkaymak36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlermeyveliyogurt36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlertamyagliyogurt36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunleryarimyagliyogurt36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlerpirincbaldo36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlertambugdayunluekmek36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlerdanakuzuinegolkofte36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlerdanakuzuizgarakofte36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlerdanaparmaksucuk36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlerdonerdanakuzu36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlerkarisiktursu36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlerultracamasirsuyucamkokulu36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlerbeyaznohut36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlerkirmizimercimek36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunleryesilmercimek36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlercigtuzlukavrulmusfindik36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlernaturelsizmazeytinyagi36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlerzeytinyagiriviera36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlerdomatessalcasi36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlerkozlenmispatlican36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlerkozlenmisbiber36aktuelaspx": {
+  "atla": true
+ },
+ "bim_aktuelurunlersiyahzeytin231290adetkg36aktuelaspx": {
+  "atla": true
+ },
+ "macrocenter_30000031500226": {
+  "migros": {
+   "kod": "31500226",
+   "ad": "Air Wick Kokulu Çubuk Pembe Çiçek Bahçesi 25 Ml",
+   "carpan": 1.0
+  }
+ },
+ "macrocenter_30000008080130": {
+  "migros": {
+   "kod": "08089706",
+   "ad": "Badem Kavrulmuş",
+   "carpan": 1.0
+  }
+ },
+ "macrocenter_30000008080708": {
+  "atla": true
+ },
+ "macrocenter_30000007031305": {
+  "atla": true
+ },
+ "macrocenter_30000025010302": {
+  "atla": true
+ },
+ "macrocenter_30000025500073": {
+  "atla": true
+ },
+ "macrocenter_30000025500070": {
+  "atla": true
+ },
+ "macrocenter_30000025030129": {
+  "atla": true
+ },
+ "macrocenter_30000025500588": {
+  "atla": true
+ },
+ "macrocenter_30000025030331": {
+  "atla": true
+ },
+ "macrocenter_30000024500036": {
+  "atla": true
+ },
+ "macrocenter_30000024500035": {
+  "atla": true
+ },
+ "macrocenter_30000024500039": {
+  "atla": true
+ },
+ "macrocenter_30000025500590": {
+  "atla": true
+ },
+ "macrocenter_30000025500071": {
+  "atla": true
+ },
+ "macrocenter_30000007155738": {
+  "atla": true
+ },
+ "macrocenter_30000007155739": {
+  "atla": true
+ },
+ "macrocenter_30000008080115": {
+  "atla": true
+ },
+ "macrocenter_30000008080211": {
+  "atla": true
+ },
+ "macrocenter_30000004155032": {
+  "atla": true
+ },
+ "macrocenter_30000004155033": {
+  "atla": true
+ },
+ "macrocenter_30000004155034": {
+  "atla": true
+ },
+ "macrocenter_30000001097744": {
+  "atla": true
+ },
+ "macrocenter_30000006013128": {
+  "atla": true
+ },
+ "macrocenter_30000006013059": {
+  "atla": true
+ },
+ "macrocenter_30000006013143": {
+  "atla": true
+ },
+ "macrocenter_30000006013141": {
+  "atla": true
+ },
+ "macrocenter_30000006013138": {
+  "atla": true
+ },
+ "macrocenter_30000006013136": {
+  "atla": true
+ },
+ "macrocenter_30000001015868": {
+  "atla": true
+ },
+ "macrocenter_30000006013129": {
+  "atla": true
+ },
+ "macrocenter_30000006013131": {
+  "atla": true
+ },
+ "macrocenter_30000006013073": {
+  "atla": true
+ },
+ "macrocenter_30000006013137": {
+  "atla": true
+ },
+ "macrocenter_30000006013142": {
+  "atla": true
+ },
+ "macrocenter_30000006013135": {
+  "atla": true
+ },
+ "macrocenter_30000006013140": {
+  "atla": true
+ },
+ "macrocenter_30000005095550": {
+  "atla": true
+ },
+ "macrocenter_30000005095545": {
+  "atla": true
+ },
+ "macrocenter_30000008080135": {
+  "migros": {
+   "kod": "08089709",
+   "ad": "Kaju Ciğ Kg",
+   "carpan": 1.0
+  }
+ },
+ "macrocenter_30000008080136": {
+  "migros": {
+   "kod": "08080259",
+   "ad": "Kaju Jumbo Zarında Kavrulmuş Kg",
+   "carpan": 1.0
+  }
+ },
+ "macrocenter_30000009024088": {
+  "migros": {
+   "kod": "09024088",
+   "ad": "Kikkoman Az Tuzlu Soya Sosu 250 Ml",
+   "carpan": 1.0
+  }
+ },
+ "macrocenter_30000016400966": {
+  "migros": {
+   "kod": "16400966",
+   "ad": "Kıkkoman Ballı Teriyaki Sos 250 Ml",
+   "carpan": 1.0
+  }
+ },
+ "macrocenter_30000009024106": {
+  "atla": true
+ },
+ "macrocenter_30000016401002": {
+  "migros": {
+   "kod": "16401002",
+   "ad": "Kikkoman Organik Soya Sosu 150 Ml",
+   "carpan": 1.0
+  }
+ },
+ "macrocenter_30000016400618": {
+  "atla": true
+ },
+ "macrocenter_30000009024092": {
+  "atla": true
+ },
+ "macrocenter_30000016400406": {
+  "migros": {
+   "kod": "16400406",
+   "ad": "Kıkkoman Teriyaki 250 Ml",
+   "carpan": 1.0
+  }
+ },
+ "macrocenter_30000016401001": {
+  "migros": {
+   "kod": "16401001",
+   "ad": "Kikkoman Tuzu Azaltılmış  Soya Sosu 150 Ml",
+   "carpan": 1.0
+  }
+ },
+ "macrocenter_30000007028831": {
+  "atla": true
+ },
+ "macrocenter_30000007045169": {
+  "atla": true
+ },
+ "macrocenter_30000007045181": {
+  "atla": true
+ },
+ "macrocenter_30000007031229": {
+  "atla": true
+ },
+ "macrocenter_30000007040321": {
+  "atla": true
+ },
+ "macrocenter_30000007040374": {
+  "atla": true
+ },
+ "macrocenter_30000031113670": {
+  "atla": true
+ },
+ "macrocenter_30000031113671": {
+  "migros": {
+   "kod": "31113671",
+   "ad": "Orkid Platinum Uzun Ekstra 16'lı",
+   "carpan": 1.0
+  }
+ },
+ "macrocenter_30000007031480": {
+  "atla": true
+ },
+ "macrocenter_30000005016935": {
+  "atla": true
+ },
+ "mopas_870620": {
+  "migros": {
+   "kod": "07156012",
+   "ad": "Abdurrahman Tatlıcı - Tadıbu  Kakaolu Fındık Ezmesi 330 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_870621": {
+  "migros": {
+   "kod": "07151712",
+   "ad": "Abdurrahman Tatlıcı Tadıbu Parçacıklı Fındık Ezmesi 330 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_783727": {
+  "migros": {
+   "kod": "11578697",
+   "ad": "Algida Maraş Usulü Kesme Dondurma 650 Ml",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "11796272",
+   "ad": "Algida Maraş Kesme 650 Ml"
+  },
+  "macro": {
+   "kod": "11578697",
+   "ad": "Algida Maraş Usulü Kesme Dondurma 650 Ml"
+  }
+ },
+ "mopas_860397": {
+  "atla": true
+ },
+ "mopas_565536": {
+  "migros": {
+   "kod": "11570419",
+   "ad": "Algida Maraş Usulü Sade 650 Ml",
+   "carpan": 0.769
+  },
+  "ozdilek": {
+   "kod": "10003372",
+   "ad": "Algida Maraş Sade 500 Ml"
+  }
+ },
+ "mopas_873291": {
+  "atla": true
+ },
+ "mopas_862828": {
+  "atla": true
+ },
+ "mopas_835525": {
+  "migros": {
+   "kod": "11570164",
+   "ad": "Algida Usta Usulü Çifte Dövülmüş Sade Dondurma 500 Ml",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "11463310",
+   "ad": "Algida Maraş Çift Dövülmüş Sade 500Ml"
+  },
+  "macro": {
+   "kod": "11570164",
+   "ad": "Algida Usta Usulü Çifte Dövülmüş Sade Dondurma 500 Ml"
+  }
+ },
+ "mopas_579839": {
+  "migros": {
+   "kod": "11562078",
+   "ad": "Alpro Şekersiz Badem İçeceği 1 L",
+   "carpan": 1.0
+  },
+  "macro": {
+   "kod": "11019190",
+   "ad": "Alpro Profesyonel Bademli İçecek 1 L"
+  }
+ },
+ "mopas_783692": {
+  "migros": {
+   "kod": "11018883",
+   "ad": "Alpro Bademli İçecek 250 Ml",
+   "carpan": 1.0
+  },
+  "macro": {
+   "kod": "11018883",
+   "ad": "Alpro Bademli İçecek 250 Ml"
+  }
+ },
+ "mopas_859651": {
+  "migros": {
+   "kod": "11019190",
+   "ad": "Alpro Barista Bademli İçecek 1 L",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "14154038",
+   "ad": "Alpro Profesyonel Badem Sütü 1 L"
+  },
+  "macro": {
+   "kod": "11019190",
+   "ad": "Alpro Profesyonel Bademli İçecek 1 L"
+  }
+ },
+ "mopas_859654": {
+  "migros": {
+   "kod": "11019007",
+   "ad": "Alpro Hindistan Cevizi Badem İçeceği 1 L",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "11880008",
+   "ad": "Alpro Hindistan Cevizi İçeceği 1 L"
+  },
+  "macro": {
+   "kod": "11019007",
+   "ad": "Alpro Hindistan Cevizi Badem İçeceği 1 L"
+  }
+ },
+ "mopas_872718": {
+  "migros": {
+   "kod": "11019239",
+   "ad": "Alpro Barista Yulaflı İçecek 1 L",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "14154037",
+   "ad": "Alpro Barista Yulaf Sütü 1 L"
+  },
+  "macro": {
+   "kod": "11019239",
+   "ad": "Alpro Barista Profesyonel Yulaflı İçecek 1 L"
+  }
+ },
+ "mopas_863132": {
+  "migros": {
+   "kod": "11015551",
+   "ad": "Alpro Bitter Çikolata Badem İçeceği 1 L",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "13407043",
+   "ad": "Alpro Bitter Çikolatalı Badem İçeceği 1 L"
+  },
+  "macro": {
+   "kod": "11015551",
+   "ad": "Alpro Bitter Çikolata Badem İçeceği 1 L"
+  }
+ },
+ "mopas_858169": {
+  "migros": {
+   "kod": "11019008",
+   "ad": "Alpro Hindistan Cevizi İçeceği Şekersiz 1 L",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "13407042",
+   "ad": "Alpro Şekersiz Hindistan Cevizi İçeceği 1 L"
+  },
+  "macro": {
+   "kod": "11019008",
+   "ad": "Alpro Hindistan Cevizi İçeceği Şekersiz 1 L"
+  }
+ },
+ "mopas_783695": {
+  "atla": true
+ },
+ "mopas_865020": {
+  "migros": {
+   "kod": "11015554",
+   "ad": "Alpro Vanilya Badem İçeceği 1 L",
+   "carpan": 1.0
+  },
+  "macro": {
+   "kod": "11015554",
+   "ad": "Alpro Vanilya Badem İçeceği 1 L"
+  }
+ },
+ "mopas_863123": {
+  "migros": {
+   "kod": "11015552",
+   "ad": "Alpro Yulaf & Badem İçeceği 1 L",
+   "carpan": 1.0
+  },
+  "macro": {
+   "kod": "11015552",
+   "ad": "Alpro Yulaf & Badem İçeceği 1 L"
+  }
+ },
+ "mopas_859886": {
+  "migros": {
+   "kod": "11011014",
+   "ad": "Alpro Yulaf İçeceği 500 Ml",
+   "carpan": 1.0
+  },
+  "macro": {
+   "kod": "11011014",
+   "ad": "Alpro Yulaf İçeceği 500 Ml"
+  }
+ },
+ "mopas_859650": {
+  "migros": {
+   "kod": "11018886",
+   "ad": "Alpro Yulaf İçeceği 1 L",
+   "carpan": 1.0
+  },
+  "macro": {
+   "kod": "11018886",
+   "ad": "Alpro Yulaf İçeceği 1 L"
+  }
+ },
+ "mopas_863127": {
+  "atla": true
+ },
+ "mopas_867386": {
+  "atla": true
+ },
+ "mopas_754": {
+  "migros": {
+   "kod": "10409164",
+   "ad": "Bahçıvan Hellim Peyniri 225 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "13284833",
+   "ad": "Bahçıvan Hellim Peyniri 225 G"
+  },
+  "macro": {
+   "kod": "10409164",
+   "ad": "Bahçıvan Hellim Peyniri 225 G"
+  }
+ },
+ "mopas_101229": {
+  "migros": {
+   "kod": "10108901",
+   "ad": "Bahçıvan Dilimli Tost Peyniri 500 G",
+   "carpan": 0.7
+  },
+  "ozdilek": {
+   "kod": "13829238",
+   "ad": "Bahçıvan Dilimli Tost Peyniri 350 G"
+  }
+ },
+ "mopas_80376": {
+  "atla": true
+ },
+ "mopas_2037": {
+  "migros": {
+   "kod": "04201901",
+   "ad": "Bizim Paket Margarin 250 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "10121208",
+   "ad": "Bizim Margarin (Paket) 250 g"
+  }
+ },
+ "mopas_2038": {
+  "migros": {
+   "kod": "04201951",
+   "ad": "Teremyağ Paket Margarin 250 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_2062": {
+  "migros": {
+   "kod": "04202952",
+   "ad": "Terem Kase Margarin 250 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_869685": {
+  "migros": {
+   "kod": "12500197",
+   "ad": "Activia İyi Hisset Probiyotik Bowl Ahududu Yulaf Ceviz 150g",
+   "carpan": 1.0
+  },
+  "macro": {
+   "kod": "12500197",
+   "ad": "Activia İyi Hisset Probiyotik Bowl Ahududu Yulaf Ceviz 150g"
+  }
+ },
+ "mopas_864160": {
+  "migros": {
+   "kod": "12501154",
+   "ad": "Activia İyi Hisset Ananaslı Hindistan Cevizli Yulaflı Probiyotikli Bowl  150 G",
+   "carpan": 1.0
+  },
+  "macro": {
+   "kod": "12501154",
+   "ad": "Activia İyi Hisset Ananaslı Hindistan Cevizli Yulaflı Probiyotikli Bowl  150 G"
+  }
+ },
+ "mopas_860856": {
+  "migros": {
+   "kod": "11552002",
+   "ad": "Danone Bitkisel Yağlı  Krema Sos 200 Ml",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "12686113",
+   "ad": "Danone Bitkisel Yağlı Kremsos 200 ML"
+  }
+ },
+ "mopas_861974": {
+  "migros": {
+   "kod": "11010168",
+   "ad": "Danone Uht Laktozsuz İçme Sütü 1 L",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "13095715",
+   "ad": "Danone Laktozsuz Süt 1 L"
+  },
+  "macro": {
+   "kod": "11010168",
+   "ad": "Danone Uht Laktozsuz İçme Sütü 1 L"
+  }
+ },
+ "mopas_873319": {
+  "migros": {
+   "kod": "12501133",
+   "ad": "Danone Yocrush Kakaolu Gevrek 150 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "14257241",
+   "ad": "Danone Yocrush Kakaolu Gevrek 150 G"
+  },
+  "macro": {
+   "kod": "12501133",
+   "ad": "Danone Yocrush Kakaolu Gevrek 150 G"
+  }
+ },
+ "mopas_873320": {
+  "atla": true
+ },
+ "mopas_873318": {
+  "migros": {
+   "kod": "12501135",
+   "ad": "Danone Yocrush Renkli Halka 149 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "14257252",
+   "ad": "Danone Yocrush Renkli Halka 149 G"
+  },
+  "macro": {
+   "kod": "12501135",
+   "ad": "Danone Yocrush Renkli Halka 149 G"
+  }
+ },
+ "mopas_32944": {
+  "atla": true
+ },
+ "mopas_873143": {
+  "migros": {
+   "kod": "05046499",
+   "ad": "Dr.Oetker Airfryer Çikolatalı Kek 196 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "14294825",
+   "ad": "Dr. Oetker Airfryer Lezzetleri Çikolatalı Kek 196 g"
+  }
+ },
+ "mopas_874963": {
+  "migros": {
+   "kod": "03331123",
+   "ad": "Dr.Oetker Cool Dream Kakaolu 83 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "14329290",
+   "ad": "Dr.Oetker Cool Dream Kakaolu 83 g"
+  }
+ },
+ "mopas_874964": {
+  "migros": {
+   "kod": "03331120",
+   "ad": "Dr.oetker Cool Dream Vanilya Aromalı 63 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "14329291",
+   "ad": "Dr.Oetker Cool Dream Vanilya Aromalı 63 g"
+  }
+ },
+ "mopas_874965": {
+  "migros": {
+   "kod": "03331121",
+   "ad": "Dr.Oetker Cool Dream Çilek Aromalı 64 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "14331693",
+   "ad": "Dr.Oetker Cool Dream Çilek Aromalı 64 g"
+  }
+ },
+ "mopas_872610": {
+  "migros": {
+   "kod": "05046383",
+   "ad": "Dr.Oetker Tavada Bazlama Sade 440 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "14166984",
+   "ad": "Dr. Oetker Tavada Bazlama Sade 440 g"
+  }
+ },
+ "mopas_864409": {
+  "migros": {
+   "kod": "07100243",
+   "ad": "Dr.Oetker Yogotella Orman Meyveli 69 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "13314783",
+   "ad": "Dr.Oetker Yogotella Orman Meyveli 69 g"
+  }
+ },
+ "mopas_864411": {
+  "migros": {
+   "kod": "07100244",
+   "ad": "Dr.Oetker Yogotella Çilekli & Muzlu 68 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "13314785",
+   "ad": "Dr.Oetker Yogotella Çilekli Muzlu 68 g"
+  }
+ },
+ "mopas_41609": {
+  "migros": {
+   "kod": "07108311",
+   "ad": "Dr.Oetker Aşure 222 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "10122753",
+   "ad": "Dr.Oetker Aşure 222 g"
+  },
+  "macro": {
+   "kod": "07108311",
+   "ad": "Dr. Oetker Aşure 222 g"
+  }
+ },
+ "mopas_53978": {
+  "migros_yok": true,
+  "ozdilek_yok": true
+ },
+ "mopas_53979": {
+  "migros_yok": true,
+  "ozdilek_yok": true
+ },
+ "mopas_53980": {
+  "migros_yok": true
+ },
+ "mopas_862726": {
+  "atla": true
+ },
+ "mopas_799161": {
+  "migros": {
+   "kod": "10103467",
+   "ad": "Ekici Tam Yağlı Taze Kaşar Peyniri 600 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "12847285",
+   "ad": "Ekici Taze Kaşar Peyniri 600 G"
+  }
+ },
+ "mopas_495820": {
+  "migros": {
+   "kod": "10017222",
+   "ad": "Ekici Lokum Kıvamında Tam Yağlı Beyaz Peynir 1000 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_861525": {
+  "atla": true
+ },
+ "mopas_767932": {
+  "atla": true
+ },
+ "mopas_674996": {
+  "atla": true
+ },
+ "mopas_77341": {
+  "atla": true
+ },
+ "mopas_32955": {
+  "migros": {
+   "kod": "27112003",
+   "ad": "Erik Angelica Kg",
+   "carpan": 1.0
+  }
+ },
+ "mopas_68133": {
+  "migros": {
+   "kod": "05093202",
+   "ad": "Eti Lifalif Yulaf Ezmesi 500 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "10126326",
+   "ad": "Eti lifalif Yulaf Ezmesi 500 G"
+  },
+  "macro": {
+   "kod": "05093202",
+   "ad": "Eti Lifalif Yulaf Ezmesi 500 G"
+  }
+ },
+ "mopas_833185": {
+  "migros": {
+   "kod": "05099191",
+   "ad": "Eti Lifalif İnce Öğütülmüş Yulaf Ezmesi 350 G",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "12206259",
+   "ad": "Eti Lifalif Öğütülmüş Yulaf Ezmesi 350 G"
+  },
+  "macro": {
+   "kod": "05099191",
+   "ad": "Eti Lifalif İnce Öğütülmüş Yulaf Ezmesi 350 G"
+  }
+ },
+ "mopas_66960": {
+  "atla": true
+ },
+ "mopas_857507": {
+  "migros": {
+   "kod": "13010152",
+   "ad": "Gedik Tabaklı Piliç Baget Kg",
+   "carpan": 1.0
+  }
+ },
+ "mopas_857503": {
+  "atla": true
+ },
+ "mopas_866630": {
+  "migros": {
+   "kod": "13500632",
+   "ad": "Gedik Pişmiş Piliç Yaprak Döner 200 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_857510": {
+  "migros": {
+   "kod": "13010136",
+   "ad": "Gedik Piliç Bonfile Kg",
+   "carpan": 1.0
+  }
+ },
+ "mopas_872623": {
+  "atla": true
+ },
+ "mopas_872620": {
+  "atla": true
+ },
+ "mopas_111665": {
+  "atla": true
+ },
+ "mopas_873581": {
+  "atla": true
+ },
+ "mopas_32990": {
+  "migros": {
+   "kod": "27191000",
+   "ad": "Karpuz Kg",
+   "carpan": 1.0
+  }
+ },
+ "mopas_32992": {
+  "migros": {
+   "kod": "27202000",
+   "ad": "Kavun Kırkağaç Kg",
+   "carpan": 1.0
+  },
+  "ozdilek": {
+   "kod": "10005626",
+   "ad": "Kavun Kırkağaç Kg"
+  },
+  "macro": {
+   "kod": "27202011",
+   "ad": "Kavun Kırkağaç Ekstra Kg"
+  }
+ },
+ "mopas_861043": {
+  "atla": true
+ },
+ "mopas_723014": {
+  "atla": true
+ },
+ "mopas_722731": {
+  "atla": true
+ },
+ "mopas_319327": {
+  "atla": true
+ },
+ "mopas_128845": {
+  "atla": true
+ },
+ "mopas_103273": {
+  "migros": {
+   "kod": "27242010",
+   "ad": "Kiraz Kg",
+   "carpan": 1.0
+  }
+ },
+ "mopas_866832": {
+  "migros": {
+   "kod": "10403995",
+   "ad": "Kiri Labne Tam Yağlı Taze Peynir 3 x 150 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_1157": {
+  "atla": true
+ },
+ "mopas_51006": {
+  "atla": true
+ },
+ "mopas_33005": {
+  "migros": {
+   "kod": "27260002",
+   "ad": "Limon Kg",
+   "carpan": 1.0
+  }
+ },
+ "mopas_69822": {
+  "migros": {
+   "kod": "14200157",
+   "ad": "Maret Dana Isıl İşlem Görmüş Afiyetle Sucuk 200 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_834753": {
+  "migros_yok": true
+ },
+ "mopas_869416": {
+  "migros": {
+   "kod": "07150093",
+   "ad": "Milka Sürülebilir Fındık Ezmesi 350 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_98019": {
+  "atla": true
+ },
+ "mopas_703207": {
+  "migros": {
+   "kod": "14109163",
+   "ad": "Namet 7 / 24 Hindi Salam 60 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_367408": {
+  "atla": true
+ },
+ "mopas_871280": {
+  "atla": true
+ },
+ "mopas_860991": {
+  "atla": true
+ },
+ "mopas_674878": {
+  "atla": true
+ },
+ "mopas_871281": {
+  "atla": true
+ },
+ "mopas_871279": {
+  "atla": true
+ },
+ "mopas_869000": {
+  "atla": true
+ },
+ "mopas_770078": {
+  "atla": true
+ },
+ "mopas_261187": {
+  "atla": true
+ },
+ "mopas_831660": {
+  "atla": true
+ },
+ "mopas_108979": {
+  "atla": true
+ },
+ "mopas_857497": {
+  "atla": true
+ },
+ "mopas_108980": {
+  "atla": true
+ },
+ "mopas_368891": {
+  "atla": true
+ },
+ "mopas_674879": {
+  "atla": true
+ },
+ "mopas_58289": {
+  "migros": {
+   "kod": "11014300",
+   "ad": "Nestle Nesquik Kakaolu Süt 180 Ml",
+   "carpan": 1.0
+  }
+ },
+ "mopas_58208": {
+  "migros": {
+   "kod": "11014301",
+   "ad": "Nesquik Muz Aromalı Süt 180 Ml",
+   "carpan": 1.0
+  }
+ },
+ "mopas_78222": {
+  "atla": true
+ },
+ "mopas_58207": {
+  "atla": true
+ },
+ "mopas_857622": {
+  "migros": {
+   "kod": "07100159",
+   "ad": "Pakmaya Aşure 230 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_703295": {
+  "migros": {
+   "kod": "05049192",
+   "ad": "Pakmaya Kakaolu Puding Toz Karışım 145 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_703292": {
+  "migros": {
+   "kod": "05045131",
+   "ad": "Pakmaya Muzlu Puding 117 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_864313": {
+  "migros": {
+   "kod": "07100278",
+   "ad": "Pakmaya Karamelli Puding 84 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_703291": {
+  "migros": {
+   "kod": "05046586",
+   "ad": "Pakmaya Çikolatalı Portakallı Puding 116 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_868724": {
+  "atla": true
+ },
+ "mopas_835392": {
+  "migros": {
+   "kod": "05046634",
+   "ad": "Pakmaya Çilekli Puding 125 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_862687": {
+  "migros": {
+   "kod": "07100198",
+   "ad": "Pakmaya Şeker İlavesiz Kakaolu Puding Toz Karışım 54 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_703293": {
+  "migros": {
+   "kod": "07101537",
+   "ad": "Pakmaya Çikolatalı Puding 106 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_703277": {
+  "atla": true
+ },
+ "mopas_861150": {
+  "atla": true
+ },
+ "mopas_863126": {
+  "migros": {
+   "kod": "14901502",
+   "ad": "Polonez Dana Jambon Kg",
+   "carpan": 2.0
+  }
+ },
+ "mopas_863140": {
+  "migros": {
+   "kod": "14109298",
+   "ad": "Polonez Macar Salam 50 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_863131": {
+  "migros": {
+   "kod": "14901819",
+   "ad": "Polonez Hindi Jambon 50 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_863141": {
+  "migros": {
+   "kod": "14109297",
+   "ad": "Polonez Hindi Parça Etli Salam 50 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_863222": {
+  "atla": true
+ },
+ "mopas_866169": {
+  "atla": true
+ },
+ "mopas_873645": {
+  "migros": {
+   "kod": "14019239",
+   "ad": "Polonez Tütsülenmiş Piliç Jumbo Sosis 320 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_861148": {
+  "atla": true
+ },
+ "mopas_870107": {
+  "atla": true
+ },
+ "mopas_873643": {
+  "migros": {
+   "kod": "14901918",
+   "ad": "Polonez Piliç Füme 150 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_126950": {
+  "migros": {
+   "kod": "14109132",
+   "ad": "Pınar Aç Bitir Hindi Salam Taze Dilimlenmiş 10 Dilim 75 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_857591": {
+  "atla": true
+ },
+ "mopas_866704": {
+  "atla": true
+ },
+ "mopas_816654": {
+  "migros": {
+   "kod": "11014074",
+   "ad": "Pınar Kido Muzlu Süt 180 Ml",
+   "carpan": 1.0
+  }
+ },
+ "mopas_816653": {
+  "migros": {
+   "kod": "11014073",
+   "ad": "Pınar Kido Çilekli Süt 180 Ml",
+   "carpan": 1.0
+  }
+ },
+ "mopas_444666": {
+  "migros": {
+   "kod": "11013996",
+   "ad": "Pınar Denge Laktozsuz Süt 200 ml",
+   "carpan": 1.0
+  }
+ },
+ "mopas_859355": {
+  "atla": true
+ },
+ "mopas_821962": {
+  "migros": {
+   "kod": "11014072",
+   "ad": "Pınar Kido Kakaolu Süt 180 Ml",
+   "carpan": 1.0
+  }
+ },
+ "mopas_72541": {
+  "migros": {
+   "kod": "11019001",
+   "ad": "Pınar Organik Süt 1 L",
+   "carpan": 1.0
+  }
+ },
+ "mopas_873261": {
+  "migros": {
+   "kod": "11015051",
+   "ad": "Pınar Protein Vanilya Aromalı Süt 500 ml",
+   "carpan": 1.0
+  }
+ },
+ "mopas_567371": {
+  "migros": {
+   "kod": "10019052",
+   "ad": "Pınar Süzme Peynir 500 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_401": {
+  "atla": true
+ },
+ "mopas_68583": {
+  "migros": {
+   "kod": "11010048",
+   "ad": "Pınar Çocuk Devam Sütü 200 Ml",
+   "carpan": 1.0
+  }
+ },
+ "mopas_863188": {
+  "atla": true
+ },
+ "mopas_835516": {
+  "atla": true
+ },
+ "mopas_638637": {
+  "migros": {
+   "kod": "07050348",
+   "ad": "Seyidoğlu Cevizli Helva Vakumlu 350 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_863189": {
+  "atla": true
+ },
+ "mopas_857565": {
+  "atla": true
+ },
+ "mopas_495991": {
+  "atla": true
+ },
+ "mopas_599": {
+  "atla": true
+ },
+ "mopas_860737": {
+  "atla": true
+ },
+ "mopas_364754": {
+  "atla": true
+ },
+ "mopas_834869": {
+  "atla": true
+ },
+ "mopas_873326": {
+  "atla": true
+ },
+ "mopas_873325": {
+  "atla": true
+ },
+ "mopas_30574": {
+  "migros": {
+   "kod": "12500380",
+   "ad": "Sütaş Kaymaksız Yoğurt 1000 G",
+   "carpan": 1.5
+  }
+ },
+ "mopas_753043": {
+  "atla": true
+ },
+ "mopas_834755": {
+  "atla": true
+ },
+ "mopas_873279": {
+  "migros": {
+   "kod": "07150101",
+   "ad": "Tadelle Parça Fındıklı Kakaolu Fındık Ezmesi 200 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_874004": {
+  "atla": true
+ },
+ "mopas_834344": {
+  "atla": true
+ },
+ "mopas_834364": {
+  "atla": true
+ },
+ "mopas_58381": {
+  "migros": {
+   "kod": "11552000",
+   "ad": "Tikveşli Krema 200 Ml",
+   "carpan": 1.0
+  }
+ },
+ "mopas_857874": {
+  "migros": {
+   "kod": "11552001",
+   "ad": "Tikveşli %18 Yağlı Krema 200 Ml",
+   "carpan": 1.0
+  }
+ },
+ "mopas_868592": {
+  "atla": true
+ },
+ "mopas_835143": {
+  "migros": {
+   "kod": "07013736",
+   "ad": "Torku Tam Kremalım Sütlü Kremalı Bisküvi 249 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_859323": {
+  "migros": {
+   "kod": "07010182",
+   "ad": "Torku Tam Çikolatam Bisküvi 249 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_529404": {
+  "atla": true
+ },
+ "mopas_529405": {
+  "atla": true
+ },
+ "mopas_868335": {
+  "migros": {
+   "kod": "07012473",
+   "ad": "Torku Karamelce Kremalı Bisküvi 176 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_529402": {
+  "migros": {
+   "kod": "07031315",
+   "ad": "Torku Klasik Sade Kremalı Bisküvi 61 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_868593": {
+  "migros": {
+   "kod": "07011316",
+   "ad": "Torku Sade Kremalı Bisküvi 4'lü Ekonomik Paket 244 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_868336": {
+  "atla": true
+ },
+ "mopas_659659": {
+  "atla": true
+ },
+ "mopas_859302": {
+  "atla": true
+ },
+ "mopas_862093": {
+  "migros": {
+   "kod": "05059288",
+   "ad": "Uno İki Kat Tahıllı İki Kat Lifli Tava Ekmeği 470 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_857707": {
+  "migros": {
+   "kod": "05051108",
+   "ad": "Uno Büyük Tost Ekmeği 550 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_783565": {
+  "migros": {
+   "kod": "05051040",
+   "ad": "Uno Denge Tam Buğdaylı & Çiya Tohumlu 400 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_835014": {
+  "migros": {
+   "kod": "05065555",
+   "ad": "Uno Denge Tam Buğdaylı Çiya Tohumlu Galeta 150 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_864225": {
+  "migros": {
+   "kod": "05057895",
+   "ad": "Uno Geleneksel Lavaş 25 Cm 6'lı 390 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_872722": {
+  "migros": {
+   "kod": "05054978",
+   "ad": "Uno Süper Tost Çavdar Ekmeği 500 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_868274": {
+  "atla": true
+ },
+ "mopas_283": {
+  "atla": true
+ },
+ "mopas_868989": {
+  "migros": {
+   "kod": "07151735",
+   "ad": "Ülker Fındık Rüyası Krem Cam Kavanoz 625 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_827176": {
+  "migros": {
+   "kod": "09035737",
+   "ad": "Ülker Çokokrem 950 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_4144": {
+  "migros": {
+   "kod": "07018221",
+   "ad": "Ülker Çokoprens 10'lu Paket 300 G",
+   "carpan": 1.0
+  }
+ },
+ "mopas_670365": {
+  "atla": true
+ },
+ "mopas_831861": {
+  "atla": true
+ },
+ "mopas_868708": {
+  "migros": {
+   "kod": "11550069",
+   "ad": "İçim Şef Pesto Fesleğenli Kremalı Yemek Sosu 200 Ml",
+   "carpan": 1.0
+  }
+ },
+ "mopas_866671": {
+  "migros": {
+   "kod": "11550040",
+   "ad": "İçim Şef Mantarlı Kremalı Yemek Sosu 200 Ml",
+   "carpan": 1.0
+  }
+ },
+ "mopas_866670": {
+  "migros": {
+   "kod": "11550045",
+   "ad": "İçim Şef Peynirli Kremalı Yemek Sosu 200 Ml",
+   "carpan": 1.0
+  }
+ },
+ "mopas_530312": {
+  "atla": true
+ },
+ "mopas_858216": {
+  "atla": true
+ },
+ "mopas_858218": {
+  "atla": true
+ },
+ "mopas_858217": {
+  "migros": {
+   "kod": "11010240",
+   "ad": "İçim İçimino Çilekli Süt 180 Ml",
+   "carpan": 6.0
+  },
+  "ozdilek": {
+   "kod": "13613645",
+   "ad": "İçim İçimino Çilekli Süt 6x180 Ml"
+  }
+ },
+ "mopas_742921": {
+  "atla": true
+ },
+ "mopas_705899": {
+  "migros": {
+   "kod": "12509973",
+   "ad": "İçim Doğal Yoğurt Yarım Yağlı 2000 G",
+   "carpan": 1.5
+  }
+ },
+ "mopas_858436": {
+  "atla": true
+ },
+ "mopas_858437": {
+  "atla": true
+ },
+ "migros_40000012509628": {
+  "ozdilek": {
+   "kod": "10004997",
+   "ad": "Danone Activia Probiyotik Çilekli Yoğurt 4x100 G"
+  },
+  "macro": {
+   "kod": "12509628",
+   "ad": "Activia Doğal Probiyotikli Çilekli Yoğurt 4x100 G"
+  }
+ },
+ "migros_40000012509629": {
+  "ozdilek": {
+   "kod": "10005002",
+   "ad": "Danone Activia Probiyotik Orman Meyveli Yoğurt 4x100 G"
+  },
+  "macro": {
+   "kod": "12509629",
+   "ad": "Activia Doğal Probiyotikli Orman Meyveli Yoğurt 4x100 G"
+  }
+ },
+ "migros_40000012509627": {
+  "macro": {
+   "kod": "12509627",
+   "ad": "Activia Doğal Probiyotikli Sade Yoğurt 4x100 G"
+  },
+  "ozdilek_yok": true
+ },
+ "macrocenter_30000011011012": {
+  "migros": {
+   "kod": "11011012",
+   "ad": "Alpro Bademli İçecek 1 L"
+  },
+  "ozdilek": {
+   "kod": "10004877",
+   "ad": "Alpro Bademli İçecek 1 L"
+  }
+ },
+ "macrocenter_30000011018883": {
+  "migros": {
+   "kod": "11018883",
+   "ad": "Alpro Bademli İçecek 250 Ml"
+  },
+  "ozdilek": {
+   "kod": "11880072",
+   "ad": "Alpro Bademli İçecek 250 Ml"
+  }
+ },
+ "macrocenter_30000011019239": {
+  "migros": {
+   "kod": "11019239",
+   "ad": "Alpro Barista Yulaflı İçecek 1 L"
+  },
+  "ozdilek": {
+   "kod": "14154037",
+   "ad": "Alpro Barista Yulaf Sütü 1 L"
+  }
+ },
+ "macrocenter_30000011015551": {
+  "migros": {
+   "kod": "11015551",
+   "ad": "Alpro Bitter Çikolata Badem İçeceği 1 L"
+  },
+  "ozdilek": {
+   "kod": "13407043",
+   "ad": "Alpro Bitter Çikolatalı Badem İçeceği 1 L"
+  }
+ },
+ "macrocenter_30000011019007": {
+  "migros": {
+   "kod": "11019007",
+   "ad": "Alpro Hindistan Cevizi Badem İçeceği 1 L"
+  },
+  "ozdilek": {
+   "kod": "11880008",
+   "ad": "Alpro Hindistan Cevizi İçeceği 1 L"
+  }
+ },
+ "macrocenter_30000011018885": {
+  "migros": {
+   "kod": "11019007",
+   "ad": "Alpro Hindistan Cevizi Badem İçeceği 1 L"
+  },
+  "ozdilek": {
+   "kod": "11880008",
+   "ad": "Alpro Hindistan Cevizi İçeceği 1 L"
+  }
+ },
+ "macrocenter_30000011019008": {
+  "migros": {
+   "kod": "11019007",
+   "ad": "Alpro Hindistan Cevizi Badem İçeceği 1 L"
+  },
+  "ozdilek": {
+   "kod": "11880008",
+   "ad": "Alpro Hindistan Cevizi İçeceği 1 L"
+  }
+ },
+ "macrocenter_30000011019190": {
+  "migros": {
+   "kod": "11019190",
+   "ad": "Alpro Barista Bademli İçecek 1 L"
+  },
+  "ozdilek": {
+   "kod": "14154038",
+   "ad": "Alpro Profesyonel Badem Sütü 1 L"
+  }
+ },
+ "macrocenter_30000011562078": {
+  "migros": {
+   "kod": "11562078",
+   "ad": "Alpro Şekersiz Badem İçeceği 1 L"
+  },
+  "ozdilek": {
+   "kod": "12509633",
+   "ad": "Alpro Şekersiz Bademli İçecek 1 L"
+  }
+ },
+ "migros_40000011562078": {
+  "ozdilek": {
+   "kod": "12509633",
+   "ad": "Alpro Şekersiz Bademli İçecek 1 L"
+  },
+  "macro": {
+   "kod": "11562078",
+   "ad": "Alpro Şekersiz Badem İçeceği 1 L"
+  }
+ },
+ "macrocenter_30000011019215": {
+  "migros": {
+   "kod": "11019215",
+   "ad": "Alpro Şekersiz Yulaf İçeceği 1 L"
+  },
+  "ozdilek": {
+   "kod": "13407045",
+   "ad": "Alpro Şekersiz Yulaflı İçecek 1 L"
+  }
+ },
+ "macrocenter_30000011015554": {
+  "migros": {
+   "kod": "11015554",
+   "ad": "Alpro Vanilya Badem İçeceği 1 L"
+  }
+ },
+ "macrocenter_30000011015552": {
+  "migros": {
+   "kod": "11015552",
+   "ad": "Alpro Yulaf & Badem İçeceği 1 L"
+  }
+ },
+ "macrocenter_30000011018886": {
+  "migros": {
+   "kod": "11018886",
+   "ad": "Alpro Yulaf İçeceği 1 L"
+  }
+ },
+ "macrocenter_30000011011014": {
+  "migros": {
+   "kod": "11011014",
+   "ad": "Alpro Yulaf İçeceği 500 Ml"
+  }
+ },
+ "mopas_867389": {
+  "ozdilek": {
+   "kod": "10674777",
+   "ad": "Aly Üçgen Yufka 360 G"
+  }
+ },
+ "mopas_78125": {
+  "migros": {
+   "kod": "05030208",
+   "ad": "Nuh'Un Ankara Spagetti Makarna 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123136",
+   "ad": "Nuh'un Ankara Spaghetti Makarna 500 g"
+  }
+ },
+ "mopas_78122": {
+  "migros": {
+   "kod": "05030207",
+   "ad": "Nuh'un Ankara Arpa Şehriye 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123300",
+   "ad": "Nuh'un Ankara Arpa Şehriye Makarna 500 g"
+  }
+ },
+ "mopas_836648": {
+  "migros": {
+   "kod": "05030218",
+   "ad": "Nuh'un Ankara Kelebek Makarna 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123021",
+   "ad": "Nuh'un Ankara Kelebek Makarna 500 g"
+  }
+ },
+ "mopas_94001": {
+  "ozdilek": {
+   "kod": "12861238",
+   "ad": "Nuh'un Ankara Bamya Makarna 500 g"
+  }
+ },
+ "mopas_78117": {
+  "migros": {
+   "kod": "05030215",
+   "ad": "Nuh'un Ankara Boncuk Makarna 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123256",
+   "ad": "Nuh'un Ankara Boncuk Makarna 500 g"
+  }
+ },
+ "mopas_78116": {
+  "migros": {
+   "kod": "05030211",
+   "ad": "Nuh'un Ankara Burgu Makarna 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123177",
+   "ad": "Nuh'un Ankara Burgu Makarna 500 g"
+  }
+ },
+ "mopas_78132": {
+  "ozdilek": {
+   "kod": "10123057",
+   "ad": "Nuh'un Ankara Erişte Makarna 500 g"
+  }
+ },
+ "mopas_78127": {
+  "ozdilek": {
+   "kod": "12216990",
+   "ad": "Nuh'un Ankara Fırınlık Makarna 500 g"
+  }
+ },
+ "mopas_78121": {
+  "migros": {
+   "kod": "05030201",
+   "ad": "Nuh'un Ankara Mantı Makarna 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123163",
+   "ad": "Nuh'un Ankara Mantı Makarna 500 g"
+  }
+ },
+ "mopas_78131": {
+  "migros": {
+   "kod": "05030201",
+   "ad": "Nuh'un Ankara Mantı Makarna 500 G"
+  },
+  "ozdilek": {
+   "kod": "12212098",
+   "ad": "Nuh'un Ankara Midye Makarna 500 g"
+  }
+ },
+ "mopas_78123": {
+  "migros": {
+   "kod": "05030206",
+   "ad": "Nuh'un Ankara Tel Şehriye 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123255",
+   "ad": "Nuh'un Ankara Tel Şehriye Makarna 500 g"
+  }
+ },
+ "mopas_78120": {
+  "migros": {
+   "kod": "05030212",
+   "ad": "Nuh'un Ankara Yüksük Kesme Makarna 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123103",
+   "ad": "Nuh'un Ankara Yüksük Makarna 500 g"
+  }
+ },
+ "migros_40000030733252": {
+  "ozdilek": {
+   "kod": "12365914",
+   "ad": "Asperox Sarı Güç 1000 ml"
+  },
+  "macro": {
+   "kod": "30733252",
+   "ad": "Asperox Sarı Güç Sprey 1 L"
+  }
+ },
+ "migros_20000010406815": {
+  "macro": {
+   "kod": "10406815",
+   "ad": "Bahçıvan Çeçil Peyniri 200 G"
+  }
+ },
+ "migros_40000010108050": {
+  "macro": {
+   "kod": "10108050",
+   "ad": "Bahçıvan Dil Peyniri 200 G"
+  }
+ },
+ "migros_40000010101987": {
+  "ozdilek": {
+   "kod": "13284835",
+   "ad": "Bahçıvan Rende Mozzarella 200 G"
+  },
+  "macro": {
+   "kod": "10101987",
+   "ad": "Bahçıvan Mozzarella Peyniri Rende 200 G"
+  }
+ },
+ "migros_40000010013111": {
+  "macro": {
+   "kod": "10013111",
+   "ad": "Bahçıvan Süzme Peynir 500 G"
+  }
+ },
+ "mopas_874347": {
+  "ozdilek": {
+   "kod": "14312827",
+   "ad": "Balparmak Yayla Çiçek Balı 460g+Çam Balı 40g"
+  }
+ },
+ "a101_14002521": {
+  "migros": {
+   "kod": "05030340",
+   "ad": "Barilla Fusilli (Burgu) Makarna 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123107",
+   "ad": "Barilla Burgu Makarna 500 g"
+  },
+  "macro": {
+   "kod": "05030340",
+   "ad": "Barilla Fusilli Burgu Makarna 500 G"
+  }
+ },
+ "migros_40000005030314": {
+  "macro": {
+   "kod": "05030314",
+   "ad": "Barilla Fettuccine (Fettucini) Makarna 500 G"
+  }
+ },
+ "a101_14000512": {
+  "migros": {
+   "kod": "05030342",
+   "ad": "Barilla Penne Rigate (Kalem) Makarna 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123330",
+   "ad": "Barilla Kalem Makarna 500 g"
+  }
+ },
+ "migros_40000005030527": {
+  "macro": {
+   "kod": "05030527",
+   "ad": "Barilla Kalpli Makarna (Pasta Love) 400 G"
+  }
+ },
+ "migros_40000005030315": {
+  "ozdilek": {
+   "kod": "10123020",
+   "ad": "Barilla Lazanya/ Lasagne Sade Makarna 500 g"
+  },
+  "macro": {
+   "kod": "05030315",
+   "ad": "Barilla Lazanya (Lasagne) Makarna 500 G"
+  }
+ },
+ "migros_40000005030349": {
+  "macro": {
+   "kod": "05030349",
+   "ad": "Barilla Linguine Yassı Spagetti 500 G"
+  }
+ },
+ "migros_40000005030342": {
+  "ozdilek": {
+   "kod": "10123330",
+   "ad": "Barilla Kalem Makarna 500 g"
+  },
+  "macro": {
+   "kod": "05030342",
+   "ad": "Barilla Penne Rigate Kalem 500 G"
+  }
+ },
+ "a101_14000502": {
+  "migros": {
+   "kod": "05030344",
+   "ad": "Barilla Spagetti (Spaghetti) Makarna No.5 500 G"
+  },
+  "ozdilek": {
+   "kod": "10123166",
+   "ad": "Barilla Spagetti Makarna 500 g"
+  }
+ },
+ "migros_20000006021102": {
+  "ozdilek": {
+   "kod": "10123196",
+   "ad": "Billur İyotlu Tuz 750 G (Deniz Tuzu)"
+  },
+  "macro": {
+   "kod": "06021102",
+   "ad": "Billur Tuz Rafine İyotlu Sofra Tuzu 750 G"
+  }
+ },
+ "mopas_831612": {
+  "ozdilek": {
+   "kod": "11026964",
+   "ad": "Binboğa Çiçek Balı 460 G"
+  }
+ },
+ "ideal_83570": {
+  "migros": {
+   "kod": "30720470",
+   "ad": "Bingo Sprey Kireç Çözücü 900 Ml"
+  },
+  "ozdilek": {
+   "kod": "13991342",
+   "ad": "Bingo Tek Fısta Ultra Yağ Çözücü Sprey 900 Ml"
+  }
+ },
+ "ozdilek_10121208": {
+  "migros": {
+   "kod": "04201901",
+   "ad": "Bizim Paket Margarin 250 G"
+  }
+ },
+ "migros_40000031315463": {
+  "ozdilek_yok": true
+ },
+ "a101_18002777": {
+  "migros": {
+   "kod": "09024184",
+   "ad": "Calve Acılı Ketçap 610 G"
+  },
+  "ozdilek": {
+   "kod": "11797699",
+   "ad": "Calve Ketçap (Acılı) 610 g"
+  },
+  "macro_yok": true
+ },
+ "a101_18002601": {
+  "migros": {
+   "kod": "09024183",
+   "ad": "Calve Ketçap 610 G"
+  },
+  "ozdilek": {
+   "kod": "11797698",
+   "ad": "Calve Ketçap 610 g"
+  },
+  "macro_yok": true
+ },
+ "ozdilek_10119287": {
+  "macro": {
+   "kod": "08054400",
+   "ad": "Cappy Şeftali Nektarı 1 L"
+  }
+ },
+ "ozdilek_10119264": {
+  "migros": {
+   "kod": "08054601",
+   "ad": "Cappy Karışık Meyve Nektarı Karton Kutu 1 L"
+  },
+  "macro": {
+   "kod": "08054601",
+   "ad": "Cappy Karışık Meyve Nektarı 1 L"
+  }
+ },
+ "migros_40000011570418": {
+  "macro": {
+   "kod": "11570418",
+   "ad": "Carte d'Or Selection Profiterol 800 Ml"
+  }
+ },
+ "migros_20000011570168": {
+  "macro": {
+   "kod": "11570168",
+   "ad": "Carte d'Or Classic Vişne Bitter Çikolata Vanilya 850 Ml"
+  }
+ },
+ "migros_40000011570168": {
+  "macro": {
+   "kod": "11570168",
+   "ad": "Carte d'Or Classic Vişne Bitter Çikolata Vanilya 850 Ml"
+  }
+ },
+ "ozdilek_13730653": {
+  "migros": {
+   "kod": "31200432",
+   "ad": "Cif Sprey Ultra Anında Etki Kir ve Yağ Çözücü 1025 Ml"
+  },
+  "macro_yok": true
+ },
+ "ozdilek_14154393": {
+  "migros": {
+   "kod": "30730192",
+   "ad": "Cif Ultra Anında Etki Kireç &Pas Sökücü Sprey 1 L"
+  },
+  "macro": {
+   "kod": "30730192",
+   "ad": "Cif Ultra Anında Etki Kireç &Pas Sökücü Sprey 1 L"
+  }
+ },
+ "a101_24004148": {
+  "migros": {
+   "kod": "34255976",
+   "ad": "Clear Men Kepeğe Karşı Etkili Şampuan Cool Sport Menthol Ferahlatıcı Mentol Etkisi 350 ml"
+  },
+  "ozdilek": {
+   "kod": "13481588",
+   "ad": "Clear Men Cool Sport Menthol Şampuan 350 ml"
+  }
+ },
+ "a101_24004149": {
+  "migros": {
+   "kod": "34255978",
+   "ad": "Clear Men Kepeğe Karşı Etkili Şampuan Saç Dökülmesine Karşı Kahve Çekirdeği Özü 350 ml"
+  }
+ },
+ "migros_40000032096594": {
+  "ozdilek": {
+   "kod": "10124069",
+   "ad": "Cook Yağlı Pişirme Kağıdı Kesilmiş 16'lı"
+  }
+ },
+ "migros_40000029758689": {
+  "ozdilek": {
+   "kod": "12226268",
+   "ad": "Dalan Dolive Sıvı Sabun Besleyici 400 ml"
+  }
+ },
+ "migros_20000011552002": {
+  "ozdilek": {
+   "kod": "12686113",
+   "ad": "Danone Bitkisel Yağlı Kremsos 200 ML"
+  }
+ },
+ "migros_40000011010168": {
+  "ozdilek": {
+   "kod": "13095715",
+   "ad": "Danone Laktozsuz Süt 1 L"
+  },
+  "macro": {
+   "kod": "11010168",
+   "ad": "Danone Uht Laktozsuz İçme Sütü 1 L"
+  }
+ },
+ "migros_40000009050214": {
+  "ozdilek": {
+   "kod": "13186086",
+   "ad": "Dardanel Ton Zeytinyağlı Poşet 80 g"
+  },
+  "macro": {
+   "kod": "09050214",
+   "ad": "Dardanel Zeytinyağlı Poşet Ton Balığı 80 G"
+  }
+ },
+ "migros_20000009050059": {
+  "macro": {
+   "kod": "09050059",
+   "ad": "Dardanel Zetinyağlı Sardalya 125 G"
+  }
+ },
+ "migros_40000009050373": {
+  "ozdilek": {
+   "kod": "13186087",
+   "ad": "Dardanel Ton Zeytinyağlı 2x140 g"
+  },
+  "macro": {
+   "kod": "09050373",
+   "ad": "Dardanel Zeytinyağlı Ton Balığı 2x140 G"
+  }
+ },
+ "ideal_4547": {
+  "migros": {
+   "kod": "03111650",
+   "ad": "Doğuş Siyah Çay 1 Kg"
+  },
+  "ozdilek": {
+   "kod": "10120632",
+   "ad": "Doğuş Siyah Çay 1 kg"
+  },
+  "macro": {
+   "kod": "03111650",
+   "ad": "Doğuş Siyah Çay 1000 g"
+  }
+ },
+ "a101_13000053": {
+  "migros": {
+   "kod": "03111651",
+   "ad": "Doğuş Rize Çay 1 Kg"
+  },
+  "ozdilek": {
+   "kod": "10120794",
+   "ad": "Doğuş Rize Çay 1 kg"
+  },
+  "macro": {
+   "kod": "03111651",
+   "ad": "Doğuş Rize Çay 1000 G"
+  }
+ },
+ "ideal_6027": {
+  "migros": {
+   "kod": "28087000",
+   "ad": "Domates Salkım Kg"
+  },
+  "ozdilek": {
+   "kod": "10005724",
+   "ad": "Domates Salkım Kg"
+  },
+  "macro": {
+   "kod": "28089151",
+   "ad": "Domates Salkım  Kg"
+  }
+ },
+ "migros_40000030569760": {
+  "ozdilek": {
+   "kod": "13195910",
+   "ad": "Domestos Bio Active Çamaşır Suyu 750 ml"
+  },
+  "macro": {
+   "kod": "30569760",
+   "ad": "Domestos Çamaşır Suyu Bio Active Mutfak Maksimum Hijyen 750 Ml"
+  }
+ },
+ "migros_20000030560253": {
+  "ozdilek": {
+   "kod": "14335882",
+   "ad": "Domestos İkili Etki Kireç Karşıtı 750 ml"
+  },
+  "macro": {
+   "kod": "30560253",
+   "ad": "Domestos İkili Etki Kireç Karşıtı 750 Ml"
+  }
+ },
+ "migros_20000030560226": {
+  "macro": {
+   "kod": "30560226",
+   "ad": "Domestos İkili Etki Kötü Koku Karşıtı Çamaşır Suyu 750 Ml"
+  }
+ },
+ "migros_40000030560515": {
+  "ozdilek": {
+   "kod": "10125158",
+   "ad": "Domestos Ultra Çamaşır Suyu 750 ml Dağ Esintisi + 750 ml Kar Beyazı"
+  },
+  "macro": {
+   "kod": "30560515",
+   "ad": "Domestos Yoğun Kıvamlı Çamaşır Suyu Dağ Esintisi 750 ml"
+  }
+ },
+ "ozdilek_10649423": {
+  "migros": {
+   "kod": "17555668",
+   "ad": "Dr.Oetker Guseppe Sucuklu Pizza 402 G"
+  }
+ },
+ "ozdilek_10649424": {
+  "migros": {
+   "kod": "17555667",
+   "ad": "Dr.Oetker Guseppe Mozzarella Pizza 412 G"
+  }
+ },
+ "ozdilek_12366227": {
+  "migros": {
+   "kod": "17555968",
+   "ad": "Dr.Oetker Guseppe 4 Peynirli Pizza 358 G"
+  }
+ },
+ "migros_20000011559398": {
+  "ozdilek": {
+   "kod": "12938110",
+   "ad": "Eker Çilekli Kefir 1000 Ml"
+  }
+ },
+ "migros_20000012501891": {
+  "ozdilek": {
+   "kod": "11215913",
+   "ad": "Eker Kaymaklı Tava Yoğurt 1000 G"
+  },
+  "macro": {
+   "kod": "12501891",
+   "ad": "Eker Kaymaklı Tava Yoğurt 1 Kg"
+  }
+ },
+ "ozdilek_12227356": {
+  "migros": {
+   "kod": "11559389",
+   "ad": "Eker Ananaslı Kefir 200 Ml"
+  },
+  "macro": {
+   "kod": "11559389",
+   "ad": "Eker Ananaslı Kefir 200 Ml"
+  }
+ },
+ "ozdilek_11215886": {
+  "migros": {
+   "kod": "11559370",
+   "ad": "Eker Çilekli Kefir 200 Ml"
+  },
+  "macro": {
+   "kod": "11559370",
+   "ad": "Eker Çilekli Kefir 200 Ml"
+  }
+ },
+ "ozdilek_12910398": {
+  "migros": {
+   "kod": "11559390",
+   "ad": "Eker Orman Meyveli Kefir 200 Ml"
+  }
+ },
+ "ozdilek_11215888": {
+  "migros": {
+   "kod": "11559371",
+   "ad": "Eker Şeftali Kayısılı Kefir 200 Ml"
+  },
+  "macro": {
+   "kod": "11559371",
+   "ad": "Eker Şeftali Kayısılı Kefir 200 Ml"
+  }
+ },
+ "migros_20000008062203": {
+  "ozdilek": {
+   "kod": "10119797",
+   "ad": "Erikli Su 5 l"
+  },
+  "macro": {
+   "kod": "08062203",
+   "ad": "Erikli Su 5 L"
+  }
+ },
+ "migros_40000008062201": {
+  "ozdilek": {
+   "kod": "10119774",
+   "ad": "Erikli Su 0.5 l"
+  },
+  "macro": {
+   "kod": "08062201",
+   "ad": "Erikli Su 500 Ml"
+  }
+ },
+ "migros_40000008062216": {
+  "ozdilek": {
+   "kod": "10812051",
+   "ad": "Erikli Su 6x1,5 L"
+  },
+  "macro": {
+   "kod": "08062216",
+   "ad": "Erikli Su Avantajlı Paket 6 x 1.5 L"
+  }
+ },
+ "migros_20000030130014": {
+  "macro": {
+   "kod": "30130014",
+   "ad": "Ernet Çamaşır Sodası 500 G"
+  }
+ },
+ "migros_40000030130014": {
+  "macro": {
+   "kod": "30130014",
+   "ad": "Ernet Çamaşır Sodası 500 G"
+  }
+ },
+ "ozdilek_13416271": {
+  "migros": {
+   "kod": "14209450",
+   "ad": "Erşan Dana Kasap Sucuk 300 G"
+  }
+ },
+ "a101_17002453": {
+  "migros": {
+   "kod": "07167677",
+   "ad": "Eti Ahenk Gurme Çikolata Kaplı Fındık Kremalı Gofret 50 g"
+  },
+  "ozdilek": {
+   "kod": "12057434",
+   "ad": "Eti Ahenk Sütlü Çikolatalı Gofret 50 G"
+  },
+  "macro": {
+   "kod": "07167677",
+   "ad": "Eti Ahenk Gurme Çikolata Kaplı Fındık Kremalı Gofret 50G"
+  }
+ },
+ "ozdilek_14138290": {
+  "macro": {
+   "kod": "07031374",
+   "ad": "Eti Çikolata Bol Sütlü 60 G"
+  }
+ },
+ "migros_40000007010946": {
+  "ozdilek": {
+   "kod": "10126564",
+   "ad": "Eti Form Limonlu Bisküvi 50 G"
+  },
+  "macro": {
+   "kod": "07010946",
+   "ad": "Eti Form Bisküvi Limon Lifli 50 G"
+  }
+ },
+ "a101_17001636": {
+  "migros": {
+   "kod": "07160817",
+   "ad": "Eti Karam Gurme Bitter Çikolatalı Gofret 50 G"
+  },
+  "macro": {
+   "kod": "07160817",
+   "ad": "Eti Karam Gurme Bitter Çikolatalı Kremalı Gofret 50 G"
+  }
+ },
+ "migros_40000005099191": {
+  "macro": {
+   "kod": "05099191",
+   "ad": "Eti Lifalif İnce Öğütülmüş Yulaf Ezmesi 350 G"
+  }
+ },
+ "migros_40000005093202": {
+  "ozdilek": {
+   "kod": "10126326",
+   "ad": "Eti lifalif Yulaf Ezmesi 500 G"
+  },
+  "macro": {
+   "kod": "05093202",
+   "ad": "Eti Lifalif Yulaf Ezmesi 500 G"
+  }
+ },
+ "ideal_77184": {
+  "ozdilek": {
+   "kod": "12509195",
+   "ad": "Familia Tuvalet Kağıdı 40'lı"
+  }
+ },
+ "migros_20000041991918": {
+  "ozdilek": {
+   "kod": "12856218",
+   "ad": "Felix Pouch Somonlu 4X85G"
+  }
+ },
+ "migros_40000041991918": {
+  "ozdilek": {
+   "kod": "12856218",
+   "ad": "Felix Pouch Somonlu 4X85G"
+  }
+ },
+ "migros_20000009035802": {
+  "ozdilek": {
+   "kod": "11404093",
+   "ad": "Fersan Ferfresh Beyaz Sirke 2L (Pet)"
+  }
+ },
+ "ozdilek_10127786": {
+  "migros": {
+   "kod": "07040240",
+   "ad": "Ferrero Raffaello 15'li 150 G"
+  },
+  "macro": {
+   "kod": "07040240",
+   "ad": "Ferrero Raffaello 15'li 150 G"
+  }
+ },
+ "ozdilek_11171259": {
+  "migros": {
+   "kod": "07155882",
+   "ad": "Fiskobirlik Nuga Kakaolu Fındık Kreması 700 G"
+  }
+ },
+ "mopas_723364": {
+  "migros": {
+   "kod": "07155882",
+   "ad": "Fiskobirlik Nuga Kakaolu Fındık Kreması 700 G"
+  },
+  "ozdilek": {
+   "kod": "11171259",
+   "ad": "Fiskobirlik Nuga Fındık Kreması 700 G"
+  }
+ },
+ "migros_20000031180041": {
+  "macro": {
+   "kod": "31180041",
+   "ad": "Flex Eldiven Krem M Beden 100'Lü"
+  }
+ },
+ "migros_20000031180045": {
+  "macro": {
+   "kod": "31180045",
+   "ad": "Flex Eldiven Siyah L Beden 100'Lü"
+  }
+ },
+ "migros_40000041025295": {
+  "macro": {
+   "kod": "41025295",
+   "ad": "Gourmet Gold Kıyılmış Hindili 85 G"
+  }
+ },
+ "mopas_861361": {
+  "ozdilek": {
+   "kod": "13642332",
+   "ad": "Gündoğdu Taze Kaşar Peyniri 500 G"
+  },
+  "macro": {
+   "kod": "10100139",
+   "ad": "Gündoğdu Taze Kaşar 500 G"
+  }
+ },
+ "migros_40000007011122": {
+  "ozdilek": {
+   "kod": "10126018",
+   "ad": "Ülker Hanımeller Damla Çikolatalı 82 G"
+  },
+  "macro": {
+   "kod": "07011122",
+   "ad": "Hanımeller Çokodamla Rulo 82 G"
+  }
+ },
+ "a101_14002305": {
+  "migros": {
+   "kod": "01011909",
+   "ad": "Hasata Gönen Baldo Pirinç 2 Kg"
+  },
+  "ozdilek": {
+   "kod": "13228223",
+   "ad": "Hasata Baldo Pirinç 2 kg"
+  }
+ },
+ "migros_40000011010066": {
+  "ozdilek": {
+   "kod": "10816119",
+   "ad": "İçim Rahat Laktozsuz Süt 1 L"
+  },
+  "macro": {
+   "kod": "11010066",
+   "ad": "İçim Rahat Laktozsuz Süt 1 L"
+  }
+ },
+ "migros_20000011552590": {
+  "ozdilek": {
+   "kod": "10005124",
+   "ad": "İçim Şef %35 Yağlı Krema 200 Ml"
+  },
+  "macro": {
+   "kod": "11552590",
+   "ad": "İçim Şef %35 Yağlı Krema 200 Ml"
+  }
+ },
+ "a101_14002095": {
+  "migros": {
+   "kod": "03321714",
+   "ad": "Irmak Küp  Şeker 1 Kg"
+  },
+  "ozdilek": {
+   "kod": "11866642",
+   "ad": "Irmak Küp Şeker 1 kg"
+  }
+ },
+ "migros_40000007031393": {
+  "ozdilek": {
+   "kod": "14151645",
+   "ad": "Kahve Dünyası Tambol Bol Sütlü Çikolata 77 G"
+  },
+  "macro": {
+   "kod": "07031393",
+   "ad": "Kahve Dünyası Tambol Bol Sütlü Çikolata 77 G"
+  }
+ },
+ "migros_40000007050278": {
+  "macro": {
+   "kod": "07050278",
+   "ad": "Kahve Dünyası Tambol Fındıklı Sütlü Çikolata 77G"
+  }
+ },
+ "mopas_859952": {
+  "migros": {
+   "kod": "05099243",
+   "ad": "Kellogg's Granola Beyaz Çikolatalı Antep Fıstıklı 300 G"
+  },
+  "ozdilek": {
+   "kod": "12870633",
+   "ad": "Ülker Kellogs Granola Beyaz Çikolatalı  Ve Antep Fıstıklı 300 G"
+  },
+  "macro": {
+   "kod": "05099243",
+   "ad": "Kelloggs Granola Beyaz Çikolatalı Antep Fıstıklı 300G"
+  }
+ },
+ "mopas_859522": {
+  "migros": {
+   "kod": "05099202",
+   "ad": "Kellogg's Çikolata Parçacıklı & Fındıklı  Granola 340 G"
+  },
+  "ozdilek": {
+   "kod": "12487920",
+   "ad": "Ülker Kellogs Granola Çikolata Fındıklı 340 G"
+  },
+  "macro": {
+   "kod": "05099202",
+   "ad": "Kellogg's Çikolata Parçalı Ve Fındıklı Granola 340G"
+  }
+ },
+ "ozdilek_14145403": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "migros_20000031200324": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000041079547": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_11000127": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "mopas_867396": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_14029344": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "ideal_67385": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "mopas_102550": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "mopas_78128": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "mopas_78124": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_22002682": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_20000030130018": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_11897827": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000010108901": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_14000263": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_10005225": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000005061991": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ideal_75390": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000016200212": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_11001971": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ideal_74207": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000006021102": {
+  "ozdilek": {
+   "kod": "10123196",
+   "ad": "Billur İyotlu Tuz 750 G (Deniz Tuzu)"
+  },
+  "macro": {
+   "kod": "06021102",
+   "ad": "Billur Tuz Rafine İyotlu Sofra Tuzu 750 G"
+  }
+ },
+ "migros_20000013302772": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_20000013302784": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_20000013302770": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_14002033": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "macrocenter_30000032300548": {
+  "migros_yok": true,
+  "ozdilek_yok": true
+ },
+ "macrocenter_30000032050888": {
+  "migros_yok": true,
+  "ozdilek_yok": true
+ },
+ "macrocenter_30000032300554": {
+  "migros_yok": true,
+  "ozdilek_yok": true
+ },
+ "ozdilek_10003909": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_13766823": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "ideal_58224": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000008080737": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000005061027": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_10119089": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000008011751": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_10119189": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "a101_22001292": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_24006128": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ideal_5490": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "mopas_30220": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "mopas_1357": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ideal_113": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ideal_24608": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ideal_82452": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_14000449": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_20000030560218": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "mopas_858467": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_11739497": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_12226343": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_10001705": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_12008449": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_11215889": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "migros_20000046051868": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_12000065": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "mopas_860862": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_20000008060028": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000008062203": {
+  "ozdilek": {
+   "kod": "10119797",
+   "ad": "Erikli Su 5 l"
+  },
+  "macro": {
+   "kod": "08062203",
+   "ad": "Erikli Su 5 L"
+  }
+ },
+ "migros_40000008062215": {
+  "ozdilek": {
+   "kod": "12688584",
+   "ad": "Erikli Su 6X1 l"
+  },
+  "macro_yok": true
+ },
+ "ozdilek_10542919": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_10126271": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "migros_20000007010956": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_14147814": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000031010062": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000041991919": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_20000030441892": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_13980011": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_14167332": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_14167001": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "mopas_857508": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_20000016000240": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_11002502": {
+  "migros": {
+   "kod": "20002001",
+   "ad": "Raya Gezen Tavuk Yumurtası 10'lu M Boy"
+  },
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "20002001",
+   "ad": "Raya Gezen Tavuk Yumurtası 10'lu M Boy"
+  }
+ },
+ "migros_40000007160987": {
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "07160987",
+   "ad": "Glütensiz Fabrika Sade Karabuğday Patlağı 100 G"
+  }
+ },
+ "ozdilek_13143854": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000041025299": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000005063036": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_16002460": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_14147994": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000010103129": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_12000222": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000010302018": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_11578806": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "migros_20000010108647": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_12000182": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_14002092": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_14002089": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000005062782": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_20000003222795": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_16002365": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_12003033": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ideal_77647": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ideal_629": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "mopas_859521": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_13000193": {
+  "migros": {
+   "kod": "08044636",
+   "ad": "Kızılay Karadut Frenk Üzümü Aromalı Maden Suyu 6 x 200 Ml"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ideal_73330": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "12310654",
+   "ad": "Komili Ayçiçek Yağı 4 l Pet"
+  },
+  "macro_yok": true
+ },
+ "migros_40000032096528": {
+  "ozdilek": {
+   "kod": "10125636",
+   "ad": "Koroplast Çöp Torbası Güçlü Büyük Boy 10'lu"
+  },
+  "macro": {
+   "kod": "32096528",
+   "ad": "Koroplast Büyük Boy Çöp Torbası 10'lu"
+  }
+ },
+ "migros_20000032095005": {
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "32095005",
+   "ad": "Koroplast Buzdolabı Poşeti Büyük Boy 20'Li"
+  }
+ },
+ "migros_20000032095002": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000031200074": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_20000032096185": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_20000011570087": {
+  "ozdilek": {
+   "kod": "10126804",
+   "ad": "Koska Dondurma Külahı 10'Lu 36 G"
+  },
+  "macro": {
+   "kod": "11570087",
+   "ad": "Koska Dondurma Külahı 10'lu 36 G"
+  }
+ },
+ "ozdilek_10126774": {
+  "migros": {
+   "kod": "07080020",
+   "ad": "Koska Sade Helva Paket 500 G"
+  },
+  "macro": {
+   "kod": "07080020",
+   "ad": "Koska Sade Helva Paket 500 G"
+  }
+ },
+ "ozdilek_10126805": {
+  "migros": {
+   "kod": "07089976",
+   "ad": "Koska Kakaolu Helva Paket 500 G"
+  },
+  "macro_yok": true
+ },
+ "a101_23001042": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_23001038": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_23000190": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000004130292": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000003271993": {
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "03271993",
+   "ad": "Kurukahveci Mehmet Efendi Colombian Filtre Kahve 250 G"
+  }
+ },
+ "migros_40000005088278": {
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "05088278",
+   "ad": "Lays Fırından Patates Cipsi Parti Boy 134 G"
+  }
+ },
+ "ozdilek_10002815": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_10002874": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "macrocenter_30000007033514": {
+  "migros_yok": true,
+  "ozdilek_yok": true
+ },
+ "macrocenter_30000007033526": {
+  "migros_yok": true,
+  "ozdilek_yok": true
+ },
+ "macrocenter_30000007040258": {
+  "migros_yok": true,
+  "ozdilek_yok": true
+ },
+ "macrocenter_30000007045137": {
+  "migros_yok": true,
+  "ozdilek_yok": true
+ },
+ "macrocenter_30000007040367": {
+  "migros_yok": true,
+  "ozdilek_yok": true
+ },
+ "ozdilek_12691333": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000029750047": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ideal_82350": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_16000641": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000008079757": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_12923192": {
+  "migros": {
+   "kod": "05089580",
+   "ad": "Master Potato Orijinal Cips 160 G"
+  },
+  "macro_yok": true
+ },
+ "ideal_95374": {
+  "migros": {
+   "kod": "31020084",
+   "ad": "Süper Maylo Bambu Katkılı Kağıt Havlu 16'lı"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000007036674": {
+  "ozdilek": {
+   "kod": "12924423",
+   "ad": "Mcvities Karamelli Tarçınlı Kremalı Bisküvi 88 G"
+  },
+  "macro": {
+   "kod": "07036674",
+   "ad": "Mcvities Karamelli Tarçınlı Kremalı Bisküvi 88 G"
+  }
+ },
+ "ozdilek_14164323": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "a101_23001478": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_23001477": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_23001476": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_11009865": {
+  "migros": {
+   "kod": "08113143",
+   "ad": "Monster Enerji İçeceği Kutu 500 ML"
+  },
+  "macro": {
+   "kod": "08113151",
+   "ad": "Monster Energy Enerji İçeceği 500 Ml"
+  }
+ },
+ "migros_20000030530556": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_20000010403370": {
+  "ozdilek": {
+   "kod": "10005198",
+   "ad": "Muratbey Burgu Peyniri 200 G"
+  },
+  "macro": {
+   "kod": "10403370",
+   "ad": "Muratbey Burgu Peyniri 200 G"
+  }
+ },
+ "a101_12001402": {
+  "migros": {
+   "kod": "10400173",
+   "ad": "Muratbey Yarım Yağlı Taze Lor Peyniri 500 G"
+  },
+  "ozdilek": {
+   "kod": "10005300",
+   "ad": "Muratbey Lor Peyniri 500 G"
+  },
+  "macro_yok": true
+ },
+ "ideal_65564": {
+  "migros": {
+   "kod": "05039485",
+   "ad": "Mutlu Burgu 500 G"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_10002546": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "a101_14001485": {
+  "migros": {
+   "kod": "46027292",
+   "ad": "Nar Küp Şeker 1 Kg"
+  },
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000003231310": {
+  "ozdilek": {
+   "kod": "10120122",
+   "ad": "Nescafe Gold Yedek 100 g"
+  },
+  "macro": {
+   "kod": "03231310",
+   "ad": "Nescafé Gold Ekonomik Paket 100 G"
+  }
+ },
+ "ozdilek_11706046": {
+  "migros": {
+   "kod": "07037272",
+   "ad": "Nestle Beyaz Kare Çikolata 60 G"
+  },
+  "macro": {
+   "kod": "07037272",
+   "ad": "Nestle Classic Beyaz Kare Çikolata 60 G"
+  }
+ },
+ "ozdilek_11706045": {
+  "migros_yok": true,
+  "macro": {
+   "kod": "07037273",
+   "ad": "Nestle Classic Bitter Kare Çikolata 60 G"
+  }
+ },
+ "ozdilek_11706044": {
+  "migros": {
+   "kod": "07037274",
+   "ad": "Nestle Bol Sütlü Kare Çikolata 60 G"
+  },
+  "macro": {
+   "kod": "07037274",
+   "ad": "Nestle Classic Sütlü Kare Çikolata 60 G"
+  }
+ },
+ "ozdilek_10126305": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_14140851": {
+  "migros": {
+   "kod": "34414757",
+   "ad": "OGX Argan Oil Of Morocco Maske 300Ml"
+  },
+  "macro": {
+   "kod": "34414757",
+   "ad": "Ogx Argan Oıl Of Morocco Maske 300Ml"
+  }
+ },
+ "ozdilek_14058139": {
+  "migros": {
+   "kod": "34240208",
+   "ad": "Ogx Argan Oil Of Morocco Onarıcı Şampuan 385 Ml"
+  },
+  "macro": {
+   "kod": "34240208",
+   "ad": "Ogx Argan Oil Of Morocco Onarıcı Şampuan 385 Ml"
+  }
+ },
+ "ozdilek_14058142": {
+  "migros": {
+   "kod": "34340228",
+   "ad": "Ogx Biotin & Collagen Saç Bakım Kremi 385 Ml"
+  },
+  "macro_yok": true
+ },
+ "ozdilek_14058143": {
+  "migros": {
+   "kod": "34340128",
+   "ad": "Ogx Brazilian Keratin Saç Bakım Kremi 385 Ml"
+  },
+  "macro_yok": true
+ },
+ "ozdilek_14057929": {
+  "migros": {
+   "kod": "34414675",
+   "ad": "OGX Düzleştirici Brazilian Keratin Smooth Şampuan 385 Ml"
+  },
+  "macro": {
+   "kod": "34414675",
+   "ad": "Ogx Düzleştirici Brazilian Keratin Smooth Şampuan 385 Ml"
+  }
+ },
+ "ozdilek_14142133": {
+  "migros_yok": true,
+  "macro": {
+   "kod": "34414759",
+   "ad": "Ogx Brazılıan Kreatin Maske 300Ml"
+  }
+ },
+ "ozdilek_14142132": {
+  "migros_yok": true,
+  "macro": {
+   "kod": "34240221",
+   "ad": "Ogx Bukleli Saçlar için Nemlendirici Coconut Curls Şampuan 385 Ml"
+  }
+ },
+ "ozdilek_14058144": {
+  "migros_yok": true,
+  "macro": {
+   "kod": "34340093",
+   "ad": "OGX Besleyici Coconut Milk Bakım Kremi 385 Ml"
+  }
+ },
+ "ozdilek_14142136": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_14142134": {
+  "migros": {
+   "kod": "34414758",
+   "ad": "OGX Coconut Miracle Oil Maske 300Ml"
+  },
+  "macro": {
+   "kod": "34414758",
+   "ad": "Ogx Coconut Mıracle Oıl Maske 300Ml"
+  }
+ },
+ "ozdilek_14058145": {
+  "migros": {
+   "kod": "34346165",
+   "ad": "Ogx Yenileyici Argan Oil Of Morocco 100 Ml"
+  },
+  "macro": {
+   "kod": "34346165",
+   "ad": "Ogx Yenileyici Argan Oil Of Morocco 100 Ml"
+  }
+ },
+ "ozdilek_13195906": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "a101_22002862": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_22002863": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000030001491": {
+  "ozdilek": {
+   "kod": "14320952",
+   "ad": "Omo Express Fresh Sıvı Bakım Deterjanı Kötü Koku Karşıtı Beyazlar ve Renkliler 21 Yıkama 840 Ml"
+  },
+  "macro_yok": true
+ },
+ "ozdilek_14171619": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "migros_20000010100123": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_14058153": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000007028859": {
+  "ozdilek": {
+   "kod": "14058151",
+   "ad": "Oreo Klasik Bisküvi 228 g"
+  },
+  "macro": {
+   "kod": "07028859",
+   "ad": "Oreo Classic 228 G"
+  }
+ },
+ "ozdilek_11577530": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_10119135": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000008011700": {
+  "ozdilek": {
+   "kod": "10119245",
+   "ad": "Pepsi Cola 2.5 l"
+  },
+  "macro_yok": true
+ },
+ "migros_20000030530517": {
+  "ozdilek_yok": true,
+  "macro": {
+   "kod": "30530517",
+   "ad": "Perwoll Açık Renkliler Sıvı Bakım Deterjanı 2.97 L"
+  }
+ },
+ "migros_40000030530016": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000030530012": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_12224026": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "ozdilek_11244547": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "migros_20000010302093": {
+  "ozdilek": {
+   "kod": "12494467",
+   "ad": "Pınar Beyaz 180 G"
+  },
+  "macro": {
+   "kod": "10302093",
+   "ad": "Pınar Beyaz 180 G"
+  }
+ },
+ "migros_40000010302098": {
+  "ozdilek": {
+   "kod": "12679003",
+   "ad": "Pınar Labne Peyniri 180 G"
+  },
+  "macro": {
+   "kod": "10302098",
+   "ad": "Pınar Labne Tam Yağlı Taze Peynir 180G"
+  }
+ },
+ "migros_20000010302082": {
+  "ozdilek": {
+   "kod": "12241137",
+   "ad": "Pınar Labne Peyniri 3x180 G"
+  },
+  "macro_yok": true
+ },
+ "ozdilek_10004566": {
+  "migros_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000011015050": {
+  "ozdilek": {
+   "kod": "11204643",
+   "ad": "Pınar Laktozsuz Protein Kakaolu Süt 500 Ml"
+  },
+  "macro": {
+   "kod": "11015050",
+   "ad": "Pınar Protein Kakaolu Süt 500 Ml"
+  }
+ },
+ "mopas_860089": {
+  "migros": {
+   "kod": "11010702",
+   "ad": "Pınar Süt %1 Yağlı 1 L"
+  },
+  "ozdilek": {
+   "kod": "12709205",
+   "ad": "Pınar %1 Yağlı Süt 1 L"
+  },
+  "macro_yok": true
+ },
+ "migros_20000010019052": {
+  "ozdilek": {
+   "kod": "10004324",
+   "ad": "Pınar Süzme Peyniri 500 G"
+  },
+  "macro": {
+   "kod": "10019052",
+   "ad": "Pınar Süzme Peynir 500 G"
+  }
+ },
+ "migros_20000011010303": {
+  "ozdilek": {
+   "kod": "14013526",
+   "ad": "Pınar Laktozsuz Sade Proteinli Süt 1 L"
+  },
+  "macro_yok": true
+ },
+ "migros_20000007151727": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_40000014901129": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "mopas_863139": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "13237773",
+   "ad": "Polonez Fit Yaşam Hindi Füme Et 50 G"
+  },
+  "macro_yok": true
+ },
+ "migros_40000014901829": {
+  "ozdilek": {
+   "kod": "13237773",
+   "ad": "Polonez Fit Yaşam Hindi Füme Et 50 G"
+  },
+  "macro_yok": true
+ },
+ "mopas_822491": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "mopas_873644": {
+  "migros_yok": true,
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "mopas_863225": {
+  "migros_yok": true,
+  "macro_yok": true,
+  "ozdilek_yok": true
+ },
+ "migros_40000031605180": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "a101_22000899": {
+  "migros_yok": true,
+  "ozdilek": {
+   "kod": "10125322",
+   "ad": "Porçöz Kireç ve Pas Çözücü 1000 ml"
+  },
+  "macro_yok": true
+ },
+ "migros_40000030611212": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "migros_20000030611201": {
+  "ozdilek_yok": true,
+  "macro_yok": true
+ },
+ "macrocenter_30000007045363": {
+  "migros_yok": true,
+  "ozdilek_yok": true
+ },
+ "migros_20000007155775": {
+  "ozdilek": {
+   "kod": "10127366",
+   "ad": "Sarelle Fındık Ezmesi 350 G"
+  },
+  "macro_yok": true
+ },
+ "ozdilek_10127372": {
+  "migros_yok": true,
+  "macro_yok": true
+ }
+}
