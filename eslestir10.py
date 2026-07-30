@@ -53,6 +53,11 @@ def miktar(ad):
                           * float(coklu.group(2).replace(",", "."))), "x")
         except ValueError:
             return None
+    # Cozulemeyen carpan kalibi ("3x1 180 G" gibi) -> miktar okunamadi say.
+    # Yoksa coklu paketi tekli sanip yanlis "ayni miktar" isareti veriyor.
+    if re.search(r"\b\d+\s*[x*]\s*\d+", metin):
+        return None
+
     bulunan = re.findall(r"(\d+[.,]?\d*)\s*(kg|gr|g|ml|lt|l|cl)\b", metin)
     if bulunan:
         sayi, birim = bulunan[-1]
